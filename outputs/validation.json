@@ -1,0 +1,14 @@
+{
+  "row_count_150000": true,
+  "row_key_unique": true,
+  "no_exact_duplicate_rows": true,
+  "status_counts_reconcile": true,
+  "completed_value_reconciles": true,
+  "all_dates_parse": true,
+  "calendar_365_dates": true,
+  "no_missing_calendar_dates": true,
+  "rating_range_1_to_5": true,
+  "flag_reconciliation": true,
+  "sql_vs_pandas_completed": true,
+  "sql_vs_pandas_value": true
+}

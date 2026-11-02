@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 334.19814119671349,
+            "y": 207.59936385260573
+          },
+          "nodeIndex": "Bookings",
+          "nodeLineageTag": "ae575a04-d3b8-414f-a0c4-d871c1f30ae5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 334.25856371068693,
+            "y": -50
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "cd192841-8196-429e-a7b2-03827136dd14",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 618.43245583093494,
+            "y": 286.87370894113212
+          },
+          "nodeIndex": "Payment",
+          "nodeLineageTag": "c4fab5ef-3b86-4843-8792-33f3d9f92909",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 334.28364079061288,
+            "y": 617.806253735713
+          },
+          "nodeIndex": "Pickup",
+          "nodeLineageTag": "4055d85b-2f3d-4504-90dd-44b9057a981b",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": 113.37306655528437
+          },
+          "nodeIndex": "Status",
+          "nodeLineageTag": "d9fff91c-0e7c-4525-bab0-54708f540e1f",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50.018338334692089,
+            "y": 523.92576757368863
+          },
+          "nodeIndex": "Vehicle",
+          "nodeLineageTag": "4b0d17e0-53f7-44ca-aadd-24a92a8e53f3",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

@@ -1,0 +1,14 @@
+status,failure_reason,bookings,pct_within_status,pct_all_unsuccessful
+No Driver Found,No driver found,10500,100.0,18.42
+Cancelled by Driver,Customer related issue,6837,25.32,11.99
+Cancelled by Driver,The customer was coughing/sick,6751,25.0,11.84
+Cancelled by Driver,Personal & Car related issues,6726,24.91,11.8
+Cancelled by Driver,More than permitted people in there,6686,24.76,11.73
+Incomplete,Customer Demand,3040,33.78,5.33
+Incomplete,Vehicle Breakdown,3012,33.47,5.28
+Incomplete,Other Issue,2948,32.76,5.17
+Cancelled by Customer,Wrong Address,2362,22.5,4.14
+Cancelled by Customer,Change of plans,2353,22.41,4.13
+Cancelled by Customer,Driver is not moving towards pickup location,2335,22.24,4.1
+Cancelled by Customer,Driver asked to cancel,2295,21.86,4.03
+Cancelled by Customer,AC is not working,1155,11.0,2.03

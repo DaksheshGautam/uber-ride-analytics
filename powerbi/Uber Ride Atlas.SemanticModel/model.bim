@@ -1,0 +1,1169 @@
+{
+  "compatibilityLevel": 1606,
+  "model": {
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"Bookings\", \"Calendar\", \"Vehicle\", \"Status\", \"Payment\", \"Pickup\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "en-US",
+    "cultures": [
+      {
+        "name": "en-US",
+        "linguisticMetadata": {
+          "content": {
+            "Entities": {
+              "bookings.avg_completed_value": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Avg Completed Value"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Average value": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.bookings": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Bookings"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Requests": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  },
+                  {
+                    "Rows": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.completed_booking_value": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Completed Booking Value"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Completed value": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.completion_rate": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Completion Rate"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Completion": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.ctat_observed": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "CTAT Observed"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "CTAT": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.customer_rating": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Customer Rating"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Customer": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.driver_rating": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Driver Rating"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Driver": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.no_driver": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "No Driver"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "No driver": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.no_driver_rate": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "No Driver Rate"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "No-driver %": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.rated_completed": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Rated Completed"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Rated rides": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.rating_observed": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Rating Observed"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Rating": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.value_observed": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "Value Observed"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Value": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "bookings.vtat_observed": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Bookings",
+                    "ConceptualProperty": "VTAT Observed"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "VTAT": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "calendar.month": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Calendar",
+                    "ConceptualProperty": "month"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Month": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "pickup.pickup": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Pickup",
+                    "ConceptualProperty": "pickup"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Pickup area": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "status.status": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Status",
+                    "ConceptualProperty": "status"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Outcome": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "vehicle.vehicle_type": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "Vehicle",
+                    "ConceptualProperty": "vehicle_type"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "Vehicle": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  },
+                  {
+                    "Service": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              }
+            },
+            "Language": "en-US",
+            "Version": "2.0.0"
+          },
+          "contentType": "json"
+        }
+      }
+    ],
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "relationships": [
+      {
+        "name": "0b1a0f49-8c80-5dd3-92f0-08fa2077902d",
+        "fromColumn": "booking_date",
+        "fromTable": "Bookings",
+        "toColumn": "booking_date",
+        "toTable": "Calendar"
+      },
+      {
+        "name": "4d64ecc2-fe79-53d6-a945-0999dd6b86b3",
+        "fromColumn": "vehicle_type",
+        "fromTable": "Bookings",
+        "toColumn": "vehicle_type",
+        "toTable": "Vehicle"
+      },
+      {
+        "name": "4e625651-7c2c-590f-90d0-6782e2b4fbc2",
+        "fromColumn": "status",
+        "fromTable": "Bookings",
+        "toColumn": "status",
+        "toTable": "Status"
+      },
+      {
+        "name": "e0637e5b-a4a6-5d09-99db-6b7b318d9677",
+        "fromColumn": "payment_method",
+        "fromTable": "Bookings",
+        "toColumn": "payment_method",
+        "toTable": "Payment"
+      },
+      {
+        "name": "5a817ae7-9865-5362-8aaa-fb089329899b",
+        "fromColumn": "pickup",
+        "fromTable": "Bookings",
+        "toColumn": "pickup",
+        "toTable": "Pickup"
+      }
+    ],
+    "tables": [
+      {
+        "name": "Bookings",
+        "columns": [
+          {
+            "name": "booking_row_key",
+            "dataType": "int64",
+            "lineageTag": "916732a7-f5ad-4ae2-96df-473948cac5bd",
+            "sourceColumn": "booking_row_key",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "booking_date",
+            "annotations": [
+              {
+                "name": "UnderlyingDateTimeDataType",
+                "value": "Date"
+              }
+            ],
+            "dataType": "dateTime",
+            "formatString": "yyyy-MM-dd",
+            "lineageTag": "375b3965-7087-46df-825b-8e21f10ee420",
+            "sourceColumn": "booking_date",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "booking_time",
+            "dataType": "string",
+            "isHidden": true,
+            "lineageTag": "c20f9433-403f-441e-a632-d9a525845ca4",
+            "sourceColumn": "booking_time",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "booking_id",
+            "dataType": "string",
+            "isHidden": true,
+            "lineageTag": "4e03bd5a-8e2b-464e-97d6-5401ce41b982",
+            "sourceColumn": "booking_id",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "status",
+            "dataType": "string",
+            "lineageTag": "9d01ba96-7221-4a7b-92aa-897829e345c2",
+            "sourceColumn": "status",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "customer_id",
+            "dataType": "string",
+            "isHidden": true,
+            "lineageTag": "bbd7a807-13cd-4eac-bb51-052d4e6a2acd",
+            "sourceColumn": "customer_id",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "vehicle_type",
+            "dataType": "string",
+            "lineageTag": "becc012d-9d03-4880-8642-4ac9ce7f611a",
+            "sourceColumn": "vehicle_type",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "pickup",
+            "dataType": "string",
+            "lineageTag": "f64d093e-6678-410b-8d90-58c6b2b79806",
+            "sourceColumn": "pickup",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "dropoff",
+            "dataType": "string",
+            "lineageTag": "c0225413-14dc-4a94-a8d4-b17ac4ba3a1c",
+            "sourceColumn": "dropoff",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "avg_vtat",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "66a4039e-9013-4dec-8caa-b893c69bfea2",
+            "sourceColumn": "avg_vtat",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "avg_ctat",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "4667f945-413c-4cca-827a-b8bd7c8b07cc",
+            "sourceColumn": "avg_ctat",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "customer_cancel_flag",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "isHidden": true,
+            "lineageTag": "57fa6e79-a4d3-4797-987b-0a4fe840b854",
+            "sourceColumn": "customer_cancel_flag",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "customer_cancel_reason",
+            "dataType": "string",
+            "lineageTag": "15701d41-1d9f-456e-bf3c-6b7b99713b6c",
+            "sourceColumn": "customer_cancel_reason",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "driver_cancel_flag",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "isHidden": true,
+            "lineageTag": "39415110-e139-4fd5-9f8f-d41386310b7b",
+            "sourceColumn": "driver_cancel_flag",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "driver_cancel_reason",
+            "dataType": "string",
+            "lineageTag": "b72a3704-ee4a-44b4-a0b0-22a63bd57a9c",
+            "sourceColumn": "driver_cancel_reason",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "incomplete_flag",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "isHidden": true,
+            "lineageTag": "603b8db8-de4d-45a9-b93b-073b719cb5c2",
+            "sourceColumn": "incomplete_flag",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "incomplete_reason",
+            "dataType": "string",
+            "lineageTag": "b35cd88d-d9b8-4bca-a7b1-fa32e356b78b",
+            "sourceColumn": "incomplete_reason",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "booking_value",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "144fe647-e1e2-4250-9ddb-b9329ced2fca",
+            "sourceColumn": "booking_value",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "ride_distance",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "4d0f1752-5201-4e7e-88a1-102731a8a942",
+            "sourceColumn": "ride_distance",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "driver_rating",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "9926f0aa-17df-41ce-aeee-c0dd2d5c35c0",
+            "sourceColumn": "driver_rating",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "customer_rating",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "0aa26b02-1003-43b2-812a-9b0a0711ec66",
+            "sourceColumn": "customer_rating",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "payment_method",
+            "dataType": "string",
+            "lineageTag": "687fdfc3-114b-4a51-9469-b0d2bb40edac",
+            "sourceColumn": "payment_method",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "month",
+            "dataType": "string",
+            "isHidden": true,
+            "lineageTag": "eb795d5d-2efd-46ef-aa4f-24ae84b9238f",
+            "sourceColumn": "month",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "hour",
+            "dataType": "int64",
+            "lineageTag": "04dce560-b99b-445a-9d60-0f142fea660e",
+            "sourceColumn": "hour",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "weekday_number",
+            "dataType": "int64",
+            "isHidden": true,
+            "lineageTag": "1b281dfd-c021-42a3-b1b4-faced589d805",
+            "sourceColumn": "weekday_number",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "weekday",
+            "dataType": "string",
+            "isHidden": true,
+            "lineageTag": "c329057b-f31f-458a-83c4-38f0b73ca262",
+            "sortByColumn": "weekday_number",
+            "sourceColumn": "weekday",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "is_weekend",
+            "dataType": "int64",
+            "lineageTag": "ccc411d4-091f-4883-a3dc-456e4f06b764",
+            "sourceColumn": "is_weekend",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "is_completed",
+            "dataType": "int64",
+            "lineageTag": "39e177b6-d444-4733-9869-ac806f65e3a5",
+            "sourceColumn": "is_completed",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "is_cancelled",
+            "dataType": "int64",
+            "lineageTag": "aedd7551-d8ff-4ffb-add3-b4d42a6b0df3",
+            "sourceColumn": "is_cancelled",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "is_failed",
+            "dataType": "int64",
+            "lineageTag": "8fad50f5-7786-4ef9-8027-0112066cdfce",
+            "sourceColumn": "is_failed",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "completed_value",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "400aaf23-2483-4e27-8c1f-a4fc87d6b271",
+            "sourceColumn": "completed_value",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "completed_distance",
+            "dataType": "double",
+            "formatString": "#,0.00",
+            "lineageTag": "a8ac8240-3502-470f-a1ea-a6fb635954ff",
+            "sourceColumn": "completed_distance",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "failure_reason",
+            "dataType": "string",
+            "isHidden": true,
+            "lineageTag": "807c9128-cc34-45bd-84cd-953c59b10ffe",
+            "sourceColumn": "failure_reason",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "booking_id_reused",
+            "dataType": "int64",
+            "lineageTag": "0dfc3f74-2ecf-446f-b0d1-7d63b114570a",
+            "sourceColumn": "booking_id_reused",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "vtat_band",
+            "dataType": "string",
+            "lineageTag": "d49b35db-67bd-4684-9b80-b170c180114e",
+            "sourceColumn": "vtat_band",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "ae575a04-d3b8-414f-a0c4-d871c1f30ae5",
+        "measures": [
+          {
+            "name": "Bookings",
+            "description": "All source booking rows; row key is the analytical grain.",
+            "displayFolder": "Operations KPIs",
+            "expression": "COUNTROWS(Bookings)",
+            "formatString": "#,0",
+            "lineageTag": "1c452e31-7870-4a13-81af-642e63df8eef"
+          },
+          {
+            "name": "Completed",
+            "description": "Completed booking rows.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE([Bookings], KEEPFILTERS(Bookings[status] = \"Completed\"))",
+            "formatString": "#,0",
+            "lineageTag": "145f86c3-886d-4560-b95e-d641cde07e99"
+          },
+          {
+            "name": "Completion Rate",
+            "description": "Completed / booking rows in current filter context.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DIVIDE([Completed], [Bookings])",
+            "formatString": "0.0%",
+            "lineageTag": "396aae96-2de5-40f4-ada2-8b31abf63869"
+          },
+          {
+            "name": "Unsuccessful",
+            "description": "Driver/customer cancellations + no-driver + incomplete.",
+            "displayFolder": "Operations KPIs",
+            "expression": "[Bookings] - [Completed]",
+            "formatString": "#,0",
+            "lineageTag": "b11d76b9-7d7e-483f-ba31-520c6bc43f21"
+          },
+          {
+            "name": "Unsuccessful Rate",
+            "description": "Unsuccessful / all selected booking rows.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DIVIDE([Unsuccessful], [Bookings])",
+            "formatString": "0.0%",
+            "lineageTag": "3ac01f02-f7aa-4a13-adfb-fdd675b580b7"
+          },
+          {
+            "name": "Cancellations",
+            "description": "Driver and customer cancellations only.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE([Bookings], KEEPFILTERS(Bookings[is_cancelled] = 1))",
+            "formatString": "#,0",
+            "lineageTag": "696df71e-7fe0-4bbd-991f-5cac3c18df67"
+          },
+          {
+            "name": "Cancellation Rate",
+            "description": "Cancellations / all selected bookings.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DIVIDE([Cancellations], [Bookings])",
+            "formatString": "0.0%",
+            "lineageTag": "9d55fbb2-7992-4002-9a14-acfb0217caea"
+          },
+          {
+            "name": "Driver Cancellations",
+            "description": "Driver-cancelled rows.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE([Bookings], KEEPFILTERS(Bookings[status] = \"Cancelled by Driver\"))",
+            "formatString": "#,0",
+            "lineageTag": "df4be938-6b0b-450e-9b46-51479882d7bd"
+          },
+          {
+            "name": "No Driver",
+            "description": "No-driver rows.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE([Bookings], KEEPFILTERS(Bookings[status] = \"No Driver Found\"))",
+            "formatString": "#,0",
+            "lineageTag": "0a63f9c3-7e8f-4926-8cbf-672653555cda"
+          },
+          {
+            "name": "No Driver Rate",
+            "description": "No-driver / all selected bookings.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DIVIDE([No Driver], [Bookings])",
+            "formatString": "0.0%",
+            "lineageTag": "95135490-53ba-4e26-bb89-655d7ba195ce"
+          },
+          {
+            "name": "Completed Booking Value",
+            "description": "Recorded value of completed bookings; currency unspecified; not recognized revenue.",
+            "displayFolder": "Operations KPIs",
+            "expression": "SUM(Bookings[completed_value])",
+            "formatString": "#,0",
+            "lineageTag": "97e7b539-47ea-4f63-a54c-be8aa358e249"
+          },
+          {
+            "name": "Avg Completed Value",
+            "description": "Completed value / completed bookings.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DIVIDE([Completed Booking Value], [Completed])",
+            "formatString": "#,0.00",
+            "lineageTag": "1801f22b-0518-470d-b727-b7becc21e6fa"
+          },
+          {
+            "name": "Incomplete Recorded Value",
+            "description": "Value recorded against incomplete rides; excluded from completed value.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE(SUM(Bookings[booking_value]), KEEPFILTERS(Bookings[status] = \"Incomplete\"))",
+            "formatString": "#,0",
+            "lineageTag": "7973d6fa-e478-4954-bb24-118a8fd75fa6"
+          },
+          {
+            "name": "Avg Completed Distance",
+            "description": "Source distance units are unverified.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE(AVERAGE(Bookings[ride_distance]), KEEPFILTERS(Bookings[status] = \"Completed\"))",
+            "formatString": "0.00",
+            "lineageTag": "f847120f-952e-40cf-8c2b-fe9a3c4c77d8"
+          },
+          {
+            "name": "Avg Completed VTAT",
+            "description": "Source VTAT definition and units are unverified.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE(AVERAGE(Bookings[avg_vtat]), KEEPFILTERS(Bookings[status] = \"Completed\"))",
+            "formatString": "0.00",
+            "lineageTag": "2086a57c-70b3-40fc-b155-d2ca445221af"
+          },
+          {
+            "name": "Avg Completed CTAT",
+            "description": "Source CTAT definition and units are unverified.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE(AVERAGE(Bookings[avg_ctat]), KEEPFILTERS(Bookings[status] = \"Completed\"))",
+            "formatString": "0.00",
+            "lineageTag": "06c1879e-6ced-4576-bab9-13a9ddfd2910"
+          },
+          {
+            "name": "Driver Rating",
+            "description": "Completed rides only; 1-5 rating scale.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE(AVERAGE(Bookings[driver_rating]), KEEPFILTERS(Bookings[status] = \"Completed\"))",
+            "formatString": "0.00",
+            "lineageTag": "3a22f06c-1fe4-44a5-8947-d4015ca0347a"
+          },
+          {
+            "name": "Customer Rating",
+            "description": "Completed rides only; survivor bias applies.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE(AVERAGE(Bookings[customer_rating]), KEEPFILTERS(Bookings[status] = \"Completed\"))",
+            "formatString": "0.00",
+            "lineageTag": "6e6d17cb-fe10-44a5-b5df-3375449a15d7"
+          },
+          {
+            "name": "Distinct Booking IDs",
+            "description": "Not the request count because IDs are reused.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DISTINCTCOUNT(Bookings[booking_id])",
+            "formatString": "#,0",
+            "lineageTag": "0657fa8a-e769-4678-939d-cc92c355ba99"
+          },
+          {
+            "name": "Excess ID Rows",
+            "description": "Excess rows beyond distinct booking IDs in current context.",
+            "displayFolder": "Operations KPIs",
+            "expression": "[Bookings] - [Distinct Booking IDs]",
+            "formatString": "#,0",
+            "lineageTag": "6ff9c771-bf3b-4cd7-b70e-a9933c661545"
+          },
+          {
+            "name": "Reused ID Rows",
+            "description": "Rows whose ID is reused anywhere in the original extract.",
+            "displayFolder": "Operations KPIs",
+            "expression": "CALCULATE([Bookings], KEEPFILTERS(Bookings[booking_id_reused] = 1))",
+            "formatString": "#,0",
+            "lineageTag": "60801b22-bc7c-4d3a-89b4-e9afc9cc2933"
+          },
+          {
+            "name": "Observed Days",
+            "description": "Number of dates with booking rows after filters.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DISTINCTCOUNT(Bookings[booking_date])",
+            "formatString": "#,0",
+            "lineageTag": "ca819d65-1f86-48b3-92da-dbcea0bb8244"
+          },
+          {
+            "name": "Bookings per Observed Day",
+            "description": "Normalizes different month lengths and weekday exposures.",
+            "displayFolder": "Operations KPIs",
+            "expression": "DIVIDE([Bookings], [Observed Days])",
+            "formatString": "0.0",
+            "lineageTag": "925434f5-6372-4aee-8f26-3f9972d3c8d4"
+          },
+          {
+            "name": "Recovery Value 1pp",
+            "description": "Illustrative +1 percentage point completion at selected completed average value; not a forecast.",
+            "displayFolder": "Operations KPIs",
+            "expression": "[Bookings] * 0.01 * [Avg Completed Value]",
+            "formatString": "#,0",
+            "lineageTag": "4647cccb-6b94-4cdb-a016-bd543eb82fb3"
+          },
+          {
+            "name": "Rated Completed",
+            "description": "Nonblank driver ratings; only completed rows have ratings.",
+            "displayFolder": "Operations KPIs",
+            "expression": "COUNT(Bookings[driver_rating])",
+            "formatString": "#,0",
+            "lineageTag": "dc74c559-6c43-40dc-bcfe-f52c1f935091"
+          },
+          {
+            "name": "Failure Rows",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "IF([Unsuccessful] > 0, [Unsuccessful])",
+            "formatString": "#,0",
+            "lineageTag": "cc9008d8-1248-4e8d-ba9c-20a776f93a5e"
+          },
+          {
+            "name": "Driver Failure Share",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "DIVIDE([Driver Cancellations], [Unsuccessful])",
+            "formatString": "0.0%",
+            "lineageTag": "2bd3ac51-6fe8-423d-92d1-569503681c5d"
+          },
+          {
+            "name": "VTAT Observed",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "COUNT(Bookings[avg_vtat])",
+            "formatString": "#,0",
+            "lineageTag": "b4a46a32-d06f-4163-bdfb-57b990261ab2"
+          },
+          {
+            "name": "CTAT Observed",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "COUNT(Bookings[avg_ctat])",
+            "formatString": "#,0",
+            "lineageTag": "f2041453-db1b-4415-83d4-b22dc413e331"
+          },
+          {
+            "name": "Value Observed",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "COUNT(Bookings[booking_value])",
+            "formatString": "#,0",
+            "lineageTag": "b7a7bcfe-9fe8-4b36-a39a-504e8f2587bc"
+          },
+          {
+            "name": "Rating Observed",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "COUNT(Bookings[driver_rating])",
+            "formatString": "#,0",
+            "lineageTag": "b22ad217-89af-461f-80f5-976d14fe8c45"
+          },
+          {
+            "name": "Completed Value Millions",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "DIVIDE([Completed Booking Value], 1000000)",
+            "formatString": "0.00\"m\"",
+            "lineageTag": "a99dbca4-47b4-4915-a5e5-c4c4b8b825e0"
+          },
+          {
+            "name": "Peak Hour",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "VAR h = TOPN(1, ADDCOLUMNS(VALUES(Bookings[hour]), \"n\", [Bookings]), [n], DESC, Bookings[hour], ASC) RETURN FORMAT(MAXX(h, Bookings[hour]), \"00\") & \":00\"",
+            "lineageTag": "c06f11e6-7d02-46a6-8a72-fb5fd085c7a6"
+          },
+          {
+            "name": "Peak Hour Requests",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "MAXX(ADDCOLUMNS(VALUES(Bookings[hour]), \"n\", [Bookings]), [n])",
+            "formatString": "#,0",
+            "lineageTag": "b5641e1a-8f8a-4407-8575-b27d33914e73"
+          },
+          {
+            "name": "Customer Cancellations",
+            "displayFolder": "Atlas / Editorial measures",
+            "expression": "CALCULATE([Bookings], KEEPFILTERS(Bookings[status]=\"Cancelled by Customer\"))",
+            "formatString": "#,0",
+            "lineageTag": "fa5c762a-5dd2-4f16-b461-c9bcbe1efdf6"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "Bookings",
+            "mode": "import",
+            "source": {
+              "expression": "let\n Source = Csv.Document(File.Contents(DataFolder & \"/bookings_clean.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),\n Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),\n Nulls = Table.ReplaceValue(Headers,\"\",null,Replacer.ReplaceValue,Table.ColumnNames(Headers)),\n Typed = Table.TransformColumnTypes(Nulls, {{\"booking_row_key\", Int64.Type},{\"booking_date\", type date},{\"booking_time\", type text},{\"booking_id\", type text},{\"status\", type text},{\"customer_id\", type text},{\"vehicle_type\", type text},{\"pickup\", type text},{\"dropoff\", type text},{\"avg_vtat\", type number},{\"avg_ctat\", type number},{\"customer_cancel_flag\", type number},{\"customer_cancel_reason\", type text},{\"driver_cancel_flag\", type number},{\"driver_cancel_reason\", type text},{\"incomplete_flag\", type number},{\"incomplete_reason\", type text},{\"booking_value\", type number},{\"ride_distance\", type number},{\"driver_rating\", type number},{\"customer_rating\", type number},{\"payment_method\", type text},{\"month\", type text},{\"hour\", Int64.Type},{\"weekday_number\", Int64.Type},{\"weekday\", type text},{\"is_weekend\", Int64.Type},{\"is_completed\", Int64.Type},{\"is_cancelled\", Int64.Type},{\"is_failed\", Int64.Type},{\"completed_value\", type number},{\"completed_distance\", type number},{\"failure_reason\", type text},{\"booking_id_reused\", Int64.Type},{\"vtat_band\", type text}}, \"en-US\")\nin Typed",
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Calendar",
+        "columns": [
+          {
+            "name": "booking_date",
+            "annotations": [
+              {
+                "name": "UnderlyingDateTimeDataType",
+                "value": "Date"
+              }
+            ],
+            "dataType": "dateTime",
+            "formatString": "yyyy-MM-dd",
+            "lineageTag": "4c2927d2-f745-4a39-9dac-4aa1995056e3",
+            "sourceColumn": "booking_date",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "month",
+            "dataType": "string",
+            "lineageTag": "1fc67748-2208-4c30-95e3-f833817f2fd3",
+            "sourceColumn": "month",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "weekday",
+            "dataType": "string",
+            "lineageTag": "ce37ad10-8d8f-4739-a579-0d16011bd153",
+            "sortByColumn": "weekday_number",
+            "sourceColumn": "weekday",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "weekday_number",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "lineageTag": "55ce0a47-0ed1-495a-89c3-eabadf369e0b",
+            "sourceColumn": "weekday_number",
+            "summarizeBy": "sum"
+          }
+        ],
+        "lineageTag": "cd192841-8196-429e-a7b2-03827136dd14",
+        "partitions": [
+          {
+            "name": "Calendar",
+            "mode": "import",
+            "source": {
+              "expression": "let\n Source = Csv.Document(File.Contents(DataFolder & \"/calendar.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),\n Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),\n Nulls = Table.ReplaceValue(Headers,\"\",null,Replacer.ReplaceValue,Table.ColumnNames(Headers)),\n Typed = Table.TransformColumnTypes(Nulls, {{\"booking_date\", type date},{\"month\", type text},{\"weekday\", type text},{\"weekday_number\", Int64.Type}}, \"en-US\")\nin Typed",
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Vehicle",
+        "columns": [
+          {
+            "name": "vehicle_type",
+            "dataType": "string",
+            "lineageTag": "b0f2cd30-9bc5-451b-a495-344d854b1954",
+            "sourceColumn": "vehicle_type",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "4b0d17e0-53f7-44ca-aadd-24a92a8e53f3",
+        "partitions": [
+          {
+            "name": "Vehicle",
+            "mode": "import",
+            "source": {
+              "expression": "let\n Source = Csv.Document(File.Contents(DataFolder & \"/dim_vehicle.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),\n Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),\n Nulls = Table.ReplaceValue(Headers,\"\",null,Replacer.ReplaceValue,Table.ColumnNames(Headers)),\n Typed = Table.TransformColumnTypes(Nulls, {{\"vehicle_type\", type text}}, \"en-US\")\nin Typed",
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "columns": [
+          {
+            "name": "status",
+            "dataType": "string",
+            "lineageTag": "39d7d17f-e8aa-48fe-a1d6-af804e413681",
+            "sourceColumn": "status",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "d9fff91c-0e7c-4525-bab0-54708f540e1f",
+        "partitions": [
+          {
+            "name": "Status",
+            "mode": "import",
+            "source": {
+              "expression": "let\n Source = Csv.Document(File.Contents(DataFolder & \"/dim_status.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),\n Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),\n Nulls = Table.ReplaceValue(Headers,\"\",null,Replacer.ReplaceValue,Table.ColumnNames(Headers)),\n Typed = Table.TransformColumnTypes(Nulls, {{\"status\", type text}}, \"en-US\")\nin Typed",
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Payment",
+        "columns": [
+          {
+            "name": "payment_method",
+            "dataType": "string",
+            "lineageTag": "a13ad054-d557-476d-84a5-316799401bfa",
+            "sourceColumn": "payment_method",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "c4fab5ef-3b86-4843-8792-33f3d9f92909",
+        "partitions": [
+          {
+            "name": "Payment",
+            "mode": "import",
+            "source": {
+              "expression": "let\n Source = Csv.Document(File.Contents(DataFolder & \"/dim_payment.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),\n Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),\n Nulls = Table.ReplaceValue(Headers,\"\",null,Replacer.ReplaceValue,Table.ColumnNames(Headers)),\n Typed = Table.TransformColumnTypes(Nulls, {{\"payment_method\", type text}}, \"en-US\")\nin Typed",
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pickup",
+        "columns": [
+          {
+            "name": "pickup",
+            "dataType": "string",
+            "lineageTag": "fb4d4c74-2d69-4c6e-8279-c3b3fe9e42cf",
+            "sourceColumn": "pickup",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "4055d85b-2f3d-4504-90dd-44b9057a981b",
+        "partitions": [
+          {
+            "name": "Pickup",
+            "mode": "import",
+            "source": {
+              "expression": "let\n Source = Csv.Document(File.Contents(DataFolder & \"/dim_pickup.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),\n Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),\n Nulls = Table.ReplaceValue(Headers,\"\",null,Replacer.ReplaceValue,Table.ColumnNames(Headers)),\n Typed = Table.TransformColumnTypes(Nulls, {{\"pickup\", type text}}, \"en-US\")\nin Typed",
+              "type": "m"
+            }
+          }
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "name": "DataFolder",
+        "kind": "m",
+        "expression": "\"C:/path/to/uber-ride-analytics-sql-powerbi/data\" meta [IsParameterQuery=true, Type=\"Text\", IsParameterQueryRequired=true]"
+      }
+    ]
+  }
+}

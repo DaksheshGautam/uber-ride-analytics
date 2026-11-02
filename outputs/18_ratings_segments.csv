@@ -1,0 +1,8 @@
+vehicle_type,rated_completed,driver_rating,customer_rating,driver_ratings_below_4,below_4_pct
+eBike,6551,4.226,4.404,1500,22.9
+Go Mini,18549,4.228,4.404,4261,22.97
+Bike,14034,4.23,4.404,3195,22.77
+Auto,23155,4.232,4.402,5188,22.41
+Go Sedan,16676,4.232,4.41,3762,22.56
+Premier Sedan,11252,4.235,4.403,2504,22.25
+Uber XL,2783,4.238,4.405,611,21.95

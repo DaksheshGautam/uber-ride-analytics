@@ -1,0 +1,6 @@
+status,bookings,share_pct,value_observations,recorded_booking_value
+Completed,93000,62.0,93000,47260574.0
+Cancelled by Driver,27000,18.0,0,
+Cancelled by Customer,10500,7.0,0,
+No Driver Found,10500,7.0,0,
+Incomplete,9000,6.0,9000,4585609.0

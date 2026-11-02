@@ -1,0 +1,6 @@
+payment_method,completed,completed_value,avg_completed_value,completed_share_pct
+UPI,41834,21274591.0,508.55,44.98
+Cash,23114,11756071.0,508.61,24.85
+Uber Wallet,11206,5669070.0,505.9,12.05
+Credit Card,9320,4753767.0,510.06,10.02
+Debit Card,7526,3807075.0,505.86,8.09

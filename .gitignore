@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+**/.pbi/
+data/raw/
+data/bookings_clean.csv
+data/calendar.csv
+data/dim_*.csv
+outputs/*.sqlite
+outputs/*_qa/
+tmp/
+report/archive/

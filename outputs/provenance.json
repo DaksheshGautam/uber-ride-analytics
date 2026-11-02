@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard",
+  "download_date": "2026-11-02",
+  "raw_sha256": "545118f78c629cf8495770a2c16f839a5a3fbcbd0af7982c98309d5dc6db72e7",
+  "rows": 150000,
+  "columns": 21,
+  "date_min": "2024-01-01",
+  "date_max": "2024-12-30",
+  "missing_calendar_dates": [],
+  "duplicate_rows": 0,
+  "distinct_booking_ids": 148767,
+  "excess_booking_id_rows": 1233,
+  "rows_with_reused_booking_id": 2457,
+  "distinct_customers": 148788,
+  "python_packages": {
+    "pandas": "3.0.1",
+    "numpy": "2.3.5"
+  },
+  "completed_value_distance_pearson": 0.00566800616611561,
+  "completed_value_quantiles": {
+    "0.25": 234.0,
+    "0.5": 414.0,
+    "0.75": 689.0,
+    "0.9": 958.0,
+    "0.95": 1222.0,
+    "0.99": 1963.0099999999948
+  },
+  "limitations": [
+    "Public educational data; real Uber operational provenance and sampling are unverified.",
+    "Currency, distance units and VTAT/CTAT definitions are not verified in the CSV.",
+    "Exact status proportions and weak identifier integrity warrant caution about synthetic data.",
+    "Booking value is not recognized revenue, profit, net receipts or platform commission.",
+    "Coverage is January 1 through December 30, 2024 (365 consecutive dates, including leap day); December 31 is outside the extract."
+  ]
+}

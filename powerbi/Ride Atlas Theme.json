@@ -1,0 +1,61 @@
+{
+  "name": "NCR | Ink & Terracotta",
+  "dataColors": [
+    "#D95D39",
+    "#262338",
+    "#ACA2D2",
+    "#D6A84B",
+    "#8A728B",
+    "#B8ACA0"
+  ],
+  "background": "#F5F0E7",
+  "foreground": "#262338",
+  "tableAccent": "#D95D39",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#262338"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 13
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#262338"
+              }
+            },
+            "fontSize": 12
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#777184"
+              }
+            },
+            "fontSize": 11
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#777184"
+              }
+            },
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}

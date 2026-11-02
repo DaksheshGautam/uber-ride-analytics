@@ -1,0 +1,146 @@
+[
+  {
+    "query": "01_executive_kpis",
+    "result_rows": 1,
+    "executed_utc": "2026-11-02T14:48:49.378425+00:00",
+    "result_sha256": "8957d74a23e8a9d68ef3878f631b2f947c27aea9e0600bbc7be0aa7b5135a41e"
+  },
+  {
+    "query": "02_status_funnel",
+    "result_rows": 5,
+    "executed_utc": "2026-11-02T14:48:49.750134+00:00",
+    "result_sha256": "dcb7977643606bee684ac2145a67dea0229689b1de20235f5d739fd70edeb9e8"
+  },
+  {
+    "query": "03_monthly_trend",
+    "result_rows": 12,
+    "executed_utc": "2026-11-02T14:48:49.982469+00:00",
+    "result_sha256": "1b96715c48961c224e6f51978832c010ef2ef55e50015210c7811ac3965264e5"
+  },
+  {
+    "query": "04_calendar_normalized",
+    "result_rows": 12,
+    "executed_utc": "2026-11-02T14:48:50.251067+00:00",
+    "result_sha256": "e5da78d5689c21c100b48ff515b4afb2485150ca340581a07bbb85cca37406a8"
+  },
+  {
+    "query": "05_hour_demand",
+    "result_rows": 24,
+    "executed_utc": "2026-11-02T14:48:50.506763+00:00",
+    "result_sha256": "ede2cc7fdc0eae0f8891a34a57382866f618757c10f5afc831adc0c69183177f"
+  },
+  {
+    "query": "06_weekday_demand",
+    "result_rows": 7,
+    "executed_utc": "2026-11-02T14:48:50.999384+00:00",
+    "result_sha256": "f9481a001377742657acd66c4276dc3e58428dce5a2097284f6475d916265a44"
+  },
+  {
+    "query": "07_hour_weekday_heatmap",
+    "result_rows": 168,
+    "executed_utc": "2026-11-02T14:48:51.455238+00:00",
+    "result_sha256": "5147adc0a22aaabb0640a8b3b0ffe04c2d4c46a36db2571ecc616bcab9a94c3d"
+  },
+  {
+    "query": "08_vehicle_performance",
+    "result_rows": 7,
+    "executed_utc": "2026-11-02T14:48:51.933229+00:00",
+    "result_sha256": "fca8cefbecbdfa7a477d3dfdea94ce2364cd3a242ab0c4ea54859766d91eb639"
+  },
+  {
+    "query": "09_failure_reasons",
+    "result_rows": 13,
+    "executed_utc": "2026-11-02T14:48:52.600068+00:00",
+    "result_sha256": "9e3f3cb50b7034dd9b78b4eb5d5ac47d4a562d634f9a464e91e12fe3eceb5db0"
+  },
+  {
+    "query": "10_pickup_priorities",
+    "result_rows": 176,
+    "executed_utc": "2026-11-02T14:48:53.095635+00:00",
+    "result_sha256": "aa55dfd5dab47709ced7777da90c072cc4c33e553b3b6af6129d7e4dc9cf4666"
+  },
+  {
+    "query": "11_routes",
+    "result_rows": 879,
+    "executed_utc": "2026-11-02T14:48:53.659902+00:00",
+    "result_sha256": "94ac29948635619f7d4b20125f397cd869cd1c3a1410a532686f1c32890bf9f9"
+  },
+  {
+    "query": "12_payment_mix",
+    "result_rows": 5,
+    "executed_utc": "2026-11-02T14:48:53.941904+00:00",
+    "result_sha256": "d239d5e8572ebdd81eed960aadf048037d2c6d193a742aebbc8f590d3a547397"
+  },
+  {
+    "query": "13_value_distribution",
+    "result_rows": 4,
+    "executed_utc": "2026-11-02T14:48:54.151816+00:00",
+    "result_sha256": "38d5f9fa880b97172f2b54722cfb8b5d60b38bc334b62cc21333813fa5560f3a"
+  },
+  {
+    "query": "14_vtat_association",
+    "result_rows": 5,
+    "executed_utc": "2026-11-02T14:48:54.382790+00:00",
+    "result_sha256": "4a306f3f66adb7703f1045fcc90855b21c1ac6c1063a2ee70d63095ad35aeeca"
+  },
+  {
+    "query": "15_customer_frequency",
+    "result_rows": 3,
+    "executed_utc": "2026-11-02T14:48:54.993057+00:00",
+    "result_sha256": "4f6345a5d6f144ca9d29595fb9244965ef2eae3651bb1894b9c86714aafe148c"
+  },
+  {
+    "query": "16_identifier_collisions",
+    "result_rows": 1224,
+    "executed_utc": "2026-11-02T14:48:55.802496+00:00",
+    "result_sha256": "44cc4c9a4d3a44cce735c2fb66065df1b104d33931e88f0b761b31c0aeaee3b9"
+  },
+  {
+    "query": "17_status_missingness",
+    "result_rows": 5,
+    "executed_utc": "2026-11-02T14:48:56.221182+00:00",
+    "result_sha256": "f5b032409bcc722a77951a83e3f80b7fd7adad50113ef1d819f7f800eb877d50"
+  },
+  {
+    "query": "18_ratings_segments",
+    "result_rows": 7,
+    "executed_utc": "2026-11-02T14:48:56.450929+00:00",
+    "result_sha256": "971bf9fdfd35f2bf078864d75e9e40e81db71b9c63e3b6bceea96a412b6b03ef"
+  },
+  {
+    "query": "19_distance_value_association",
+    "result_rows": 3,
+    "executed_utc": "2026-11-02T14:48:56.825026+00:00",
+    "result_sha256": "00edd9eca3d875f4cc125e1d6408c68cefb77ebc7e0502f98074041563cc860f"
+  },
+  {
+    "query": "20_weekend_comparison",
+    "result_rows": 2,
+    "executed_utc": "2026-11-02T14:48:57.144446+00:00",
+    "result_sha256": "8f6bef8e99a5557c47323dfa2e6bacc25e4560cdf5cd9ed2dac85155df2d6d9f"
+  },
+  {
+    "query": "21_recovery_scenarios",
+    "result_rows": 3,
+    "executed_utc": "2026-11-02T14:48:57.277423+00:00",
+    "result_sha256": "bb9c3ed7b1cf808584958c2e2f7ac4d6b14d49f15d27601b2774ebd324c02dba"
+  },
+  {
+    "query": "22_reason_flag_reconciliation",
+    "result_rows": 1,
+    "executed_utc": "2026-11-02T14:48:57.450834+00:00",
+    "result_sha256": "a3a2706569134180073b4212cae990ee81dce0adf50e9528f87fa475769a8e23"
+  },
+  {
+    "query": "23_daily_control_series",
+    "result_rows": 365,
+    "executed_utc": "2026-11-02T14:48:59.403573+00:00",
+    "result_sha256": "08fa7fdf2e1d8aec229020bbb3f4e221050b57269b3c34d4f7656bfbe38bbeef"
+  },
+  {
+    "query": "24_booking_id_sensitivity",
+    "result_rows": 2,
+    "executed_utc": "2026-11-02T14:48:59.715606+00:00",
+    "result_sha256": "13d677fc7a2d3dfb62788308bb972a9565ed71adefb5e2e38ae3ca609f9f9f4b"
+  }
+]

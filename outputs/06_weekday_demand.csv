@@ -1,0 +1,8 @@
+weekday_number,weekday,bookings,observed_days,bookings_per_day,completion_pct
+1,Monday,21644,53,408.38,61.53
+2,Tuesday,21391,52,411.37,61.57
+3,Wednesday,21413,52,411.79,62.09
+4,Thursday,21215,52,407.98,62.25
+5,Friday,21397,52,411.48,61.94
+6,Saturday,21542,52,414.27,62.4
+7,Sunday,21398,52,411.5,62.22

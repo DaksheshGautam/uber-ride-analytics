@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Uber Ride Atlas"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d26e17bb-f320-43de-8b7e-15a6fc713637"
+  }
+}

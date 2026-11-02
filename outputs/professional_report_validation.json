@@ -1,0 +1,56 @@
+{
+  "pages": 10,
+  "executive_summary_pages": 1,
+  "bookmarks": [
+    {
+      "title": "Executive summary",
+      "page": 1
+    },
+    {
+      "title": "1. Scope and methodology",
+      "page": 1
+    },
+    {
+      "title": "2. Booking completion and unsuccessful outcomes",
+      "page": 1
+    },
+    {
+      "title": "3. Demand by time",
+      "page": 1
+    },
+    {
+      "title": "4. Vehicle mix, booking value and payments",
+      "page": 1
+    },
+    {
+      "title": "5. Pickup-location priorities",
+      "page": 1
+    },
+    {
+      "title": "6. Ratings, timing and customer-analysis limits",
+      "page": 1
+    },
+    {
+      "title": "7. Completion-recovery scenarios",
+      "page": 1
+    },
+    {
+      "title": "8. Recommendations and evaluation",
+      "page": 1
+    },
+    {
+      "title": "Appendix A. Data quality and metric definitions",
+      "page": 1
+    },
+    {
+      "title": "Appendix B. Reproducibility and technical implementation",
+      "page": 1
+    },
+    {
+      "title": "Appendix C. Sources and interpretation limits",
+      "page": 1
+    }
+  ],
+  "render_review": "all pages reviewed; executive summary and appendices inspected at full size",
+  "format": "white A4 pages, Arial, narrative sections and technical appendices"
+}

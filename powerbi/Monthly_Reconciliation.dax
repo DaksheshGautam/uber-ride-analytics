@@ -1,0 +1,10 @@
+// Executed successfully in Power BI Desktop DAX query view.
+// Reconciles with outputs/03_monthly_trend.csv.
+EVALUATE
+SUMMARIZECOLUMNS(
+    Calendar[month],
+    "BookingRows", [Bookings],
+    "CompletedRows", [Completed],
+    "CompletedValue", [Completed Booking Value]
+)
+ORDER BY Calendar[month]

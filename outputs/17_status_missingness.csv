@@ -1,0 +1,6 @@
+status,rows,vtat_observations,ctat_observations,value_observations,distance_observations,driver_rating_observations,payment_observations
+Cancelled by Customer,10500,10500,0,0,0,0,0
+Cancelled by Driver,27000,27000,0,0,0,0,0
+Completed,93000,93000,93000,93000,93000,93000,93000
+Incomplete,9000,9000,9000,9000,9000,0,9000
+No Driver Found,10500,0,0,0,0,0,0

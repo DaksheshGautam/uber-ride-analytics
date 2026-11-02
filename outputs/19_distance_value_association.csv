@@ -1,0 +1,4 @@
+distance_band,completed,avg_value,weighted_value_per_distance
+01 | <10,15502,503.4,83.69
+02 | 10-24.99,28992,508.68,29.02
+03 | >=25,48506,509.4,13.6

@@ -1,0 +1,880 @@
+pickup,dropoff,bookings,completed,completion_pct,completed_value
+DLF City Court,Bhiwadi,17,13,76.47,5925.0
+Akshardham,RK Puram,16,7,43.75,4207.0
+Janakpuri,Faridabad Sector 15,16,9,56.25,4248.0
+Ghaziabad,Badshahpur,15,6,40.0,2538.0
+Jor Bagh,Rohini East,15,7,46.67,1457.0
+Rithala,Udyog Vihar Phase 4,15,11,73.33,6325.0
+Vatika Chowk,Rithala,15,9,60.0,3277.0
+Chirag Delhi,Noida Film City,14,7,50.0,2973.0
+Connaught Place,Paharganj,14,9,64.29,4766.0
+Indirapuram,Vaishali,14,8,57.14,2822.0
+Kashmere Gate ISBT,Tilak Nagar,14,7,50.0,1835.0
+Mayur Vihar,Vidhan Sabha,14,10,71.43,5058.0
+New Delhi Railway Station,Shahdara,14,9,64.29,5267.0
+Rohini West,Sohna Road,14,13,92.86,6204.0
+South Extension,Gwal Pahari,14,10,71.43,2777.0
+Subhash Nagar,Basai Dhankot,14,8,57.14,3901.0
+Vaishali,IIT Delhi,14,9,64.29,5365.0
+Adarsh Nagar,Narsinghpur,13,9,69.23,6687.0
+Ambience Mall,Akshardham,13,11,84.62,8518.0
+Cyber Hub,Ambience Mall,13,10,76.92,6193.0
+DLF City Court,New Colony,13,9,69.23,6747.0
+Delhi Gate,Indirapuram,13,7,53.85,3195.0
+Govindpuri,Azadpur,13,7,53.85,1908.0
+Greater Kailash,Shahdara,13,9,69.23,3941.0
+Hauz Khas,Tughlakabad,13,6,46.15,3477.0
+Inderlok,Noida Film City,13,8,61.54,3132.0
+Jahangirpuri,Delhi Gate,13,6,46.15,1704.0
+Jama Masjid,New Colony,13,4,30.77,1912.0
+Jasola,Akshardham,13,6,46.15,3172.0
+MG Road,Basai Dhankot,13,10,76.92,3272.0
+Malviya Nagar,Shastri Park,13,7,53.85,3862.0
+Noida Extension,Karol Bagh,13,4,30.77,2902.0
+Noida Film City,Jahangirpuri,13,9,69.23,6254.0
+Noida Film City,Jhilmil,13,7,53.85,3995.0
+Paharganj,Sarojini Nagar,13,10,76.92,5439.0
+RK Puram,Botanical Garden,13,9,69.23,5717.0
+Rajouri Garden,Kanhaiya Nagar,13,9,69.23,3129.0
+Sarai Kale Khan,Patel Chowk,13,6,46.15,1957.0
+Sarai Kale Khan,Rohini,13,7,53.85,4561.0
+Sikanderpur,Kherki Daula Toll,13,6,46.15,2260.0
+Sohna Road,Ambience Mall,13,6,46.15,2725.0
+Subhash Chowk,Raj Nagar Extension,13,5,38.46,2813.0
+Sushant Lok,Sarai Kale Khan,13,11,84.62,5630.0
+AIIMS,Ashok Park Main,12,8,66.67,3758.0
+AIIMS,Kashmere Gate ISBT,12,9,75.0,4162.0
+AIIMS,Madipur,12,6,50.0,2611.0
+AIIMS,Saket,12,10,83.33,4549.0
+Arjangarh,Gurgaon Sector 56,12,8,66.67,3018.0
+Arjangarh,Narsinghpur,12,5,41.67,2469.0
+Azadpur,Raj Nagar Extension,12,10,83.33,4794.0
+Badarpur,Adarsh Nagar,12,7,58.33,2989.0
+Badshahpur,Madipur,12,7,58.33,4630.0
+Barakhamba Road,Dwarka Mor,12,7,58.33,2785.0
+Basai Dhankot,Rohini East,12,8,66.67,4217.0
+Basai Dhankot,Tilak Nagar,12,9,75.0,4313.0
+Bhikaji Cama Place,Cyber Hub,12,8,66.67,4195.0
+Bhikaji Cama Place,Kanhaiya Nagar,12,9,75.0,3469.0
+Botanical Garden,Moti Nagar,12,7,58.33,4503.0
+Central Secretariat,Arjangarh,12,7,58.33,5519.0
+Chhatarpur,Greater Kailash,12,7,58.33,3161.0
+Cyber Hub,Gurgaon Railway Station,12,9,75.0,8396.0
+Cyber Hub,Meerut,12,7,58.33,4321.0
+Cyber Hub,Rithala,12,7,58.33,3482.0
+Dwarka Sector 21,Govindpuri,12,10,83.33,5748.0
+Dwarka Sector 21,Rohini,12,4,33.33,2443.0
+Ghitorni,South Extension,12,7,58.33,2343.0
+Golf Course Road,Satguru Ram Singh Marg,12,6,50.0,2498.0
+Gurgaon Railway Station,Jasola,12,9,75.0,4303.0
+Gurgaon Sector 29,New Delhi Railway Station,12,6,50.0,1525.0
+Gwal Pahari,Golf Course Road,12,8,66.67,6184.0
+Hero Honda Chowk,Dwarka Mor,12,8,66.67,5238.0
+IGI Airport,Greater Kailash,12,6,50.0,1977.0
+IGI Airport,Tilak Nagar,12,6,50.0,2096.0
+IGI Airport,Vishwavidyalaya,12,6,50.0,2147.0
+IGNOU Road,Udyog Vihar,12,8,66.67,5620.0
+Indraprastha,Rajouri Garden,12,10,83.33,6223.0
+Jahangirpuri,Connaught Place,12,4,33.33,1100.0
+Jahangirpuri,Sikanderpur,12,7,58.33,3197.0
+Jama Masjid,Khan Market,12,10,83.33,4752.0
+Janakpuri,Bhikaji Cama Place,12,6,50.0,2990.0
+Jasola,South Extension,12,8,66.67,3030.0
+Kalkaji,Nehru Place,12,4,33.33,1021.0
+Karkarduma,Vishwavidyalaya,12,6,50.0,2743.0
+Khan Market,Sikanderpur,12,7,58.33,3210.0
+Lok Kalyan Marg,Jhilmil,12,11,91.67,4520.0
+Lok Kalyan Marg,Sikanderpur,12,8,66.67,2596.0
+Malviya Nagar,Lajpat Nagar,12,4,33.33,1684.0
+Mayur Vihar,Shastri Nagar,12,6,50.0,3657.0
+Model Town,Saket,12,6,50.0,2317.0
+Nawada,Delhi Gate,12,8,66.67,4532.0
+Nawada,Ramesh Nagar,12,8,66.67,3847.0
+Noida Extension,Ashram,12,7,58.33,2863.0
+Noida Sector 18,Azadpur,12,9,75.0,4487.0
+Noida Sector 18,Noida Film City,12,7,58.33,1669.0
+Noida Sector 62,Sarai Kale Khan,12,11,91.67,5124.0
+Panchsheel Park,Gurgaon Sector 56,12,8,66.67,2480.0
+Panipat,Nirman Vihar,12,5,41.67,2654.0
+Pataudi Chowk,Kalkaji,12,9,75.0,3788.0
+Peeragarhi,Karkarduma,12,5,41.67,2745.0
+Rithala,Basai Dhankot,12,9,75.0,6097.0
+Rohini,Raj Nagar Extension,12,7,58.33,3193.0
+Rohini,Ramesh Nagar,12,8,66.67,4204.0
+Rohini East,Kaushambi,12,7,58.33,3183.0
+Rohini West,Gurgaon Railway Station,12,9,75.0,4073.0
+Saket,Ghaziabad,12,9,75.0,4931.0
+Saket,Karkarduma,12,10,83.33,3191.0
+Sarai Kale Khan,Gurgaon Railway Station,12,7,58.33,3125.0
+Seelampur,Jama Masjid,12,10,83.33,4171.0
+Seelampur,Rajiv Nagar,12,7,58.33,3991.0
+Shahdara,Barakhamba Road,12,8,66.67,2749.0
+Shahdara,Dilshad Garden,12,9,75.0,4914.0
+Shivaji Park,Mandi House,12,8,66.67,3665.0
+Shivaji Park,Moolchand,12,7,58.33,5953.0
+Sikanderpur,Pulbangash,12,7,58.33,4005.0
+Subhash Chowk,IGNOU Road,12,11,91.67,5160.0
+Subhash Chowk,Moti Nagar,12,8,66.67,3292.0
+Subhash Nagar,Bhiwadi,12,9,75.0,3837.0
+Tagore Garden,Moti Nagar,12,8,66.67,4151.0
+Tagore Garden,Udyog Vihar,12,8,66.67,4654.0
+Tilak Nagar,Indraprastha,12,5,41.67,3178.0
+Tis Hazari,Chandni Chowk,12,7,58.33,3667.0
+Udyog Vihar,Nawada,12,10,83.33,6019.0
+Udyog Vihar,Okhla,12,5,41.67,3506.0
+Udyog Vihar Phase 4,Bahadurgarh,12,9,75.0,3598.0
+Uttam Nagar,Dwarka Sector 21,12,9,75.0,4593.0
+Vaishali,Pitampura,12,5,41.67,2774.0
+Vinobapuri,Gwal Pahari,12,5,41.67,1465.0
+AIIMS,Basai Dhankot,11,8,72.73,4032.0
+AIIMS,Subhash Nagar,11,7,63.64,3241.0
+Adarsh Nagar,Khandsa,11,8,72.73,3071.0
+Adarsh Nagar,Lok Kalyan Marg,11,7,63.64,2340.0
+Adarsh Nagar,Model Town,11,7,63.64,3545.0
+Akshardham,Kherki Daula Toll,11,3,27.27,1261.0
+Ambience Mall,Palam Vihar,11,4,36.36,1385.0
+Ambience Mall,Pitampura,11,8,72.73,3889.0
+Anand Vihar,Sarai Kale Khan,11,6,54.55,3216.0
+Anand Vihar ISBT,Chhatarpur,11,6,54.55,3807.0
+Anand Vihar ISBT,Lajpat Nagar,11,6,54.55,3278.0
+Anand Vihar ISBT,Tilak Nagar,11,7,63.64,5102.0
+Ardee City,Basai Dhankot,11,5,45.45,3261.0
+Ardee City,Connaught Place,11,4,36.36,1448.0
+Ardee City,Nirman Vihar,11,8,72.73,4795.0
+Arjangarh,Tilak Nagar,11,6,54.55,2921.0
+Ashok Park Main,Dwarka Sector 21,11,8,72.73,3284.0
+Ashok Park Main,Mayur Vihar,11,7,63.64,3099.0
+Ashram,Pataudi Chowk,11,7,63.64,4631.0
+Ashram,Subhash Chowk,11,9,81.82,4109.0
+Aya Nagar,Faridabad Sector 15,11,6,54.55,2579.0
+Aya Nagar,Hero Honda Chowk,11,6,54.55,2437.0
+Azadpur,Janakpuri,11,6,54.55,3044.0
+Badarpur,Arjangarh,11,8,72.73,4369.0
+Badarpur,Ashram,11,4,36.36,1995.0
+Badarpur,Kalkaji,11,6,54.55,2802.0
+Badarpur,Peeragarhi,11,7,63.64,2305.0
+Badarpur,South Extension,11,9,81.82,3665.0
+Badshahpur,Cyber Hub,11,6,54.55,2689.0
+Bahadurgarh,Jama Masjid,11,10,90.91,5994.0
+Barakhamba Road,IMT Manesar,11,9,81.82,5821.0
+Barakhamba Road,Sarojini Nagar,11,3,27.27,1757.0
+Basai Dhankot,Anand Vihar ISBT,11,6,54.55,2558.0
+Bhiwadi,Ashok Vihar,11,6,54.55,2357.0
+Bhiwadi,Rithala,11,5,45.45,3281.0
+Botanical Garden,Lok Kalyan Marg,11,8,72.73,3422.0
+Botanical Garden,Shivaji Park,11,5,45.45,5833.0
+Central Secretariat,New Colony,11,8,72.73,3648.0
+Chanakyapuri,Bahadurgarh,11,6,54.55,1816.0
+Chanakyapuri,Sohna Road,11,5,45.45,4622.0
+Chanakyapuri,Vidhan Sabha,11,5,45.45,1671.0
+Chhatarpur,Ardee City,11,8,72.73,4979.0
+Chhatarpur,Jasola,11,7,63.64,5728.0
+Chhatarpur,Panchsheel Park,11,8,72.73,4959.0
+Chirag Delhi,Hauz Khas,11,6,54.55,1611.0
+Civil Lines Gurgaon,Mayur Vihar,11,8,72.73,6009.0
+Civil Lines Gurgaon,Noida Sector 62,11,4,36.36,899.0
+Connaught Place,Badarpur,11,7,63.64,4862.0
+Connaught Place,Chhatarpur,11,7,63.64,2130.0
+Cyber Hub,Ardee City,11,3,27.27,1825.0
+DLF City Court,GTB Nagar,11,6,54.55,3849.0
+DLF City Court,Kalkaji,11,7,63.64,3808.0
+DLF Phase 3,AIIMS,11,6,54.55,2737.0
+Dilshad Garden,Rohini East,11,6,54.55,2695.0
+GTB Nagar,Kadarpur,11,9,81.82,3582.0
+Ghaziabad,IFFCO Chowk,11,9,81.82,3888.0
+Ghaziabad,Lajpat Nagar,11,4,36.36,1833.0
+Ghaziabad,Sultanpur,11,7,63.64,2337.0
+Ghitorni,Mandi House,11,10,90.91,6517.0
+Ghitorni,Saket,11,9,81.82,5896.0
+Ghitorni Village,Gurgaon Railway Station,11,8,72.73,3733.0
+Ghitorni Village,Khandsa,11,8,72.73,5359.0
+Ghitorni Village,Rohini West,11,5,45.45,2385.0
+Golf Course Road,Old Gurgaon,11,8,72.73,3245.0
+Golf Course Road,Vatika Chowk,11,9,81.82,4688.0
+Greater Kailash,Shastri Park,11,8,72.73,3034.0
+Greater Noida,Rohini West,11,8,72.73,3789.0
+Gurgaon Railway Station,Cyber Hub,11,7,63.64,2472.0
+Gurgaon Sector 29,Jama Masjid,11,6,54.55,3055.0
+Gurgaon Sector 29,Moolchand,11,5,45.45,2723.0
+Hauz Khas,Keshav Puram,11,5,45.45,1994.0
+Hauz Khas,Kirti Nagar,11,4,36.36,2452.0
+Hauz Khas,Laxmi Nagar,11,6,54.55,3059.0
+Hauz Khas,Mandi House,11,8,72.73,3670.0
+Hauz Rani,Udyog Vihar Phase 4,11,7,63.64,3098.0
+Hero Honda Chowk,Ghitorni,11,5,45.45,2765.0
+Hero Honda Chowk,Hauz Khas,11,10,90.91,4385.0
+Hero Honda Chowk,Laxmi Nagar,11,8,72.73,3263.0
+IGI Airport,Rohini West,11,8,72.73,2978.0
+IGI Airport,Tughlakabad,11,8,72.73,4019.0
+IGNOU Road,Faridabad Sector 15,11,6,54.55,3846.0
+IMT Manesar,DLF City Court,11,7,63.64,3643.0
+IMT Manesar,Mehrauli,11,8,72.73,2866.0
+IMT Manesar,Netaji Subhash Place,11,5,45.45,3829.0
+IMT Manesar,Subhash Chowk,11,9,81.82,5388.0
+ITO,Tagore Garden,11,7,63.64,2379.0
+ITO,Vidhan Sabha,11,5,45.45,2103.0
+Inderlok,Mayur Vihar,11,8,72.73,3575.0
+India Gate,Rajiv Chowk,11,6,54.55,2998.0
+Indirapuram,Akshardham,11,10,90.91,6089.0
+Jahangirpuri,New Colony,11,8,72.73,6161.0
+Jahangirpuri,Vidhan Sabha,11,6,54.55,3578.0
+Janakpuri,Ashok Vihar,11,5,45.45,3259.0
+Jasola,Pataudi Chowk,11,7,63.64,3205.0
+Jasola,Raj Nagar Extension,11,8,72.73,2350.0
+Kadarpur,Jahangirpuri,11,7,63.64,3453.0
+Kadarpur,Rohini East,11,8,72.73,6113.0
+Kadarpur,Udyog Bhawan,11,5,45.45,2094.0
+Kanhaiya Nagar,Satguru Ram Singh Marg,11,8,72.73,4667.0
+Kanhaiya Nagar,Vaishali,11,10,90.91,4562.0
+Karkarduma,Chanakyapuri,11,7,63.64,2484.0
+Karkarduma,IGI Airport,11,6,54.55,2954.0
+Kaushambi,Karol Bagh,11,7,63.64,1756.0
+Kaushambi,Khan Market,11,7,63.64,4307.0
+Keshav Puram,Green Park,11,7,63.64,3700.0
+Keshav Puram,Moolchand,11,3,27.27,1982.0
+Khandsa,Basai Dhankot,11,6,54.55,2184.0
+Khandsa,Seelampur,11,5,45.45,2232.0
+Kherki Daula Toll,Akshardham,11,5,45.45,1843.0
+Kirti Nagar,Shahdara,11,7,63.64,3446.0
+Lajpat Nagar,Old Gurgaon,11,4,36.36,2138.0
+Lajpat Nagar,Shahdara,11,9,81.82,5080.0
+Lal Quila,Old Gurgaon,11,7,63.64,2534.0
+Laxmi Nagar,Inderlok,11,10,90.91,4693.0
+Lok Kalyan Marg,Ashram,11,8,72.73,5025.0
+Lok Kalyan Marg,Basai Dhankot,11,6,54.55,3963.0
+Lok Kalyan Marg,Noida Sector 62,11,7,63.64,3646.0
+Lok Kalyan Marg,Tis Hazari,11,7,63.64,3344.0
+Madipur,Bhiwadi,11,5,45.45,2067.0
+Madipur,South Extension,11,5,45.45,4358.0
+Madipur,Udyog Vihar Phase 4,11,5,45.45,2610.0
+Maidan Garhi,Nehru Place,11,9,81.82,4234.0
+Malviya Nagar,Punjabi Bagh,11,8,72.73,3886.0
+Manesar,Vishwavidyalaya,11,7,63.64,2846.0
+Mansarovar Park,Model Town,11,7,63.64,2685.0
+Mayur Vihar,MG Road,11,9,81.82,5455.0
+Meerut,Udyog Bhawan,11,5,45.45,1707.0
+Mehrauli,Ghaziabad,11,5,45.45,2109.0
+Model Town,Lal Quila,11,7,63.64,4166.0
+Moolchand,Anand Vihar,11,10,90.91,6287.0
+Moolchand,Paharganj,11,9,81.82,6399.0
+Moolchand,Vishwavidyalaya,11,5,45.45,2297.0
+Mundka,GTB Nagar,11,4,36.36,2183.0
+Mundka,ITO,11,2,18.18,725.0
+Munirka,Bahadurgarh,11,6,54.55,2873.0
+Munirka,Gwal Pahari,11,7,63.64,2682.0
+Munirka,MG Road,11,7,63.64,3694.0
+Munirka,Okhla,11,8,72.73,3683.0
+Nawada,Laxmi Nagar,11,8,72.73,3071.0
+Nehru Place,Hauz Rani,11,6,54.55,3073.0
+Nehru Place,New Delhi Railway Station,11,8,72.73,3456.0
+New Colony,INA Market,11,7,63.64,3805.0
+New Colony,Nawada,11,9,81.82,4919.0
+New Colony,Sushant Lok,11,4,36.36,1800.0
+New Colony,Udyog Bhawan,11,6,54.55,2659.0
+Noida Extension,Noida Film City,11,6,54.55,4523.0
+Noida Extension,Udyog Vihar Phase 4,11,6,54.55,3853.0
+Noida Film City,Faridabad Sector 15,11,7,63.64,3425.0
+Noida Sector 62,Panipat,11,8,72.73,3760.0
+Okhla,Hauz Khas,11,4,36.36,1422.0
+Paharganj,Kalkaji,11,5,45.45,2486.0
+Panchsheel Park,Badarpur,11,7,63.64,2715.0
+Panchsheel Park,Noida Sector 18,11,6,54.55,2084.0
+Panipat,Ashram,11,5,45.45,2845.0
+Panipat,Lajpat Nagar,11,6,54.55,2959.0
+Paschim Vihar,Central Secretariat,11,6,54.55,2487.0
+Paschim Vihar,Gwal Pahari,11,4,36.36,2445.0
+Pataudi Chowk,IIT Delhi,11,7,63.64,3620.0
+Pataudi Chowk,Jasola,11,5,45.45,2890.0
+Pataudi Chowk,Subhash Nagar,11,8,72.73,4643.0
+Patel Chowk,Tis Hazari,11,6,54.55,3227.0
+Peeragarhi,Anand Vihar,11,10,90.91,4245.0
+Pitampura,Okhla,11,7,63.64,2619.0
+Pragati Maidan,Golf Course Road,11,6,54.55,3777.0
+Pragati Maidan,Karol Bagh,11,9,81.82,2938.0
+Pragati Maidan,Palam Vihar,11,5,45.45,2182.0
+Pragati Maidan,Shastri Park,11,8,72.73,4453.0
+Pragati Maidan,Tughlakabad,11,6,54.55,2481.0
+Preet Vihar,Chhatarpur,11,6,54.55,3112.0
+Preet Vihar,Uttam Nagar,11,5,45.45,2770.0
+Pulbangash,Jor Bagh,11,7,63.64,3300.0
+Punjabi Bagh,Barakhamba Road,11,6,54.55,3081.0
+Qutub Minar,Connaught Place,11,5,45.45,1984.0
+RK Puram,Welcome,11,8,72.73,3887.0
+Rajiv Chowk,Anand Vihar,11,8,72.73,3748.0
+Rajiv Chowk,Nawada,11,4,36.36,1767.0
+Rajiv Nagar,Patel Chowk,11,6,54.55,2520.0
+Rajiv Nagar,Shastri Park,11,9,81.82,4470.0
+Rajouri Garden,Ghitorni Village,11,9,81.82,4495.0
+Ramesh Nagar,Chhatarpur,11,7,63.64,3420.0
+Ramesh Nagar,IGNOU Road,11,8,72.73,4065.0
+Ramesh Nagar,Keshav Puram,11,6,54.55,4080.0
+Rithala,Noida Sector 18,11,7,63.64,2627.0
+Rithala,Vatika Chowk,11,8,72.73,6527.0
+Rohini,Jama Masjid,11,7,63.64,3631.0
+Rohini East,Munirka,11,8,72.73,4444.0
+Rohini West,Pragati Maidan,11,8,72.73,3284.0
+Sadar Bazar Gurgaon,Greater Noida,11,9,81.82,3227.0
+Sadar Bazar Gurgaon,Kalkaji,11,8,72.73,5041.0
+Saidulajab,Indraprastha,11,7,63.64,5607.0
+Saidulajab,Patel Chowk,11,8,72.73,2888.0
+Saidulajab,South Extension,11,7,63.64,2295.0
+Saket,Gurgaon Sector 56,11,8,72.73,2793.0
+Saket,Narsinghpur,11,9,81.82,5240.0
+Saket A Block,Ghitorni Village,11,7,63.64,3005.0
+Samaypur Badli,India Gate,11,6,54.55,3071.0
+Samaypur Badli,Vidhan Sabha,11,8,72.73,4203.0
+Sarai Kale Khan,Meerut,11,6,54.55,1459.0
+Sarai Kale Khan,New Delhi Railway Station,11,4,36.36,2568.0
+Sarai Kale Khan,Sonipat,11,9,81.82,4788.0
+Sarojini Nagar,Kashmere Gate,11,5,45.45,3053.0
+Sarojini Nagar,Saket A Block,11,6,54.55,6222.0
+Satguru Ram Singh Marg,Cyber Hub,11,4,36.36,2338.0
+Satguru Ram Singh Marg,Kalkaji,11,6,54.55,1442.0
+Satguru Ram Singh Marg,Khandsa,11,1,9.09,329.0
+Satguru Ram Singh Marg,New Delhi Railway Station,11,7,63.64,5026.0
+Satguru Ram Singh Marg,Pulbangash,11,4,36.36,1231.0
+Seelampur,ITO,11,6,54.55,2764.0
+Shahdara,Netaji Subhash Place,11,5,45.45,2873.0
+Shastri Nagar,Satguru Ram Singh Marg,11,4,36.36,3250.0
+Shastri Park,Basai Dhankot,11,5,45.45,2109.0
+Shastri Park,Sarai Kale Khan,11,9,81.82,5602.0
+Sikanderpur,Delhi Gate,11,8,72.73,1856.0
+Sikanderpur,Rohini West,11,9,81.82,2969.0
+Sonipat,Green Park,11,7,63.64,3336.0
+South Extension,IGNOU Road,11,9,81.82,6693.0
+South Extension,ITO,11,8,72.73,5532.0
+Subhash Chowk,IMT Manesar,11,9,81.82,3737.0
+Subhash Chowk,Shahdara,11,8,72.73,2980.0
+Subhash Chowk,Tagore Garden,11,6,54.55,2738.0
+Subhash Nagar,Keshav Puram,11,4,36.36,1515.0
+Subhash Nagar,Ramesh Nagar,11,6,54.55,2470.0
+Sushant Lok,Maidan Garhi,11,9,81.82,4276.0
+Tagore Garden,Dilshad Garden,11,6,54.55,2206.0
+Tagore Garden,IGI Airport,11,7,63.64,2887.0
+Tilak Nagar,ITO,11,6,54.55,2802.0
+Tughlakabad,Mansarovar Park,11,6,54.55,2046.0
+Udyog Bhawan,Sushant Lok,11,5,45.45,2433.0
+Udyog Vihar,Gurgaon Sector 56,11,7,63.64,4002.0
+Udyog Vihar,Kashmere Gate,11,8,72.73,2909.0
+Udyog Vihar,Mansarovar Park,11,6,54.55,7179.0
+Udyog Vihar,Moti Nagar,11,9,81.82,5041.0
+Udyog Vihar,Tagore Garden,11,9,81.82,7940.0
+Udyog Vihar Phase 4,Sarai Kale Khan,11,7,63.64,2236.0
+Uttam Nagar,Kalkaji,11,8,72.73,3638.0
+Uttam Nagar,Mayur Vihar,11,9,81.82,4982.0
+Vaishali,Dwarka Mor,11,8,72.73,3087.0
+Vaishali,Sohna Road,11,6,54.55,2314.0
+Vasant Kunj,DLF Phase 3,11,9,81.82,5128.0
+Vasant Kunj,Hauz Khas,11,3,27.27,1516.0
+Vasant Kunj,Shivaji Park,11,8,72.73,5699.0
+Vasant Kunj,Vidhan Sabha,11,10,90.91,4060.0
+Vishwavidyalaya,Kirti Nagar,11,5,45.45,2818.0
+Vishwavidyalaya,Yamuna Bank,11,10,90.91,3047.0
+Welcome,DLF Phase 3,11,9,81.82,2682.0
+Welcome,Jasola,11,8,72.73,2593.0
+Yamuna Bank,Keshav Puram,11,8,72.73,2789.0
+Yamuna Bank,Palam Vihar,11,7,63.64,5064.0
+AIIMS,Ghaziabad,10,6,60.0,1543.0
+AIIMS,Ghitorni,10,6,60.0,3982.0
+AIIMS,Mandi House,10,5,50.0,1814.0
+AIIMS,Panchsheel Park,10,4,40.0,1806.0
+AIIMS,Sultanpur,10,5,50.0,3378.0
+Adarsh Nagar,India Gate,10,4,40.0,2546.0
+Adarsh Nagar,Lal Quila,10,7,70.0,2268.0
+Adarsh Nagar,Ramesh Nagar,10,5,50.0,2539.0
+Adarsh Nagar,Samaypur Badli,10,8,80.0,4002.0
+Akshardham,Bahadurgarh,10,7,70.0,2517.0
+Akshardham,Gurgaon Sector 56,10,7,70.0,2741.0
+Akshardham,Sonipat,10,4,40.0,1764.0
+Akshardham,Sultanpur,10,4,40.0,2477.0
+Ambience Mall,Dilshad Garden,10,5,50.0,1649.0
+Ambience Mall,Jasola,10,8,80.0,3894.0
+Ambience Mall,Samaypur Badli,10,8,80.0,3229.0
+Anand Vihar,AIIMS,10,7,70.0,6779.0
+Anand Vihar,IGNOU Road,10,5,50.0,2383.0
+Anand Vihar,Kadarpur,10,7,70.0,3533.0
+Anand Vihar,New Colony,10,6,60.0,2326.0
+Anand Vihar,RK Puram,10,10,100.0,5394.0
+Anand Vihar ISBT,Connaught Place,10,7,70.0,4149.0
+Anand Vihar ISBT,Greater Kailash,10,4,40.0,1758.0
+Anand Vihar ISBT,Mansarovar Park,10,5,50.0,3477.0
+Anand Vihar ISBT,Rajouri Garden,10,6,60.0,3916.0
+Ardee City,Hauz Rani,10,5,50.0,1514.0
+Ardee City,Saket,10,8,80.0,3461.0
+Ardee City,Uttam Nagar,10,8,80.0,4198.0
+Ardee City,Vishwavidyalaya,10,7,70.0,4450.0
+Arjangarh,IGI Airport,10,5,50.0,6953.0
+Ashok Park Main,Kanhaiya Nagar,10,8,80.0,5437.0
+Ashok Vihar,Ashram,10,7,70.0,1995.0
+Ashok Vihar,Basai Dhankot,10,9,90.0,9280.0
+Ashok Vihar,Chirag Delhi,10,4,40.0,3354.0
+Ashok Vihar,Meerut,10,5,50.0,2289.0
+Ashram,AIIMS,10,7,70.0,2522.0
+Ashram,GTB Nagar,10,5,50.0,3380.0
+Ashram,Panipat,10,7,70.0,3921.0
+Ashram,Saket,10,9,90.0,2494.0
+Aya Nagar,Paschim Vihar,10,6,60.0,2362.0
+Aya Nagar,Rohini West,10,5,50.0,2955.0
+Aya Nagar,Vaishali,10,6,60.0,2374.0
+Azadpur,IGI Airport,10,6,60.0,4482.0
+Azadpur,Lajpat Nagar,10,4,40.0,2390.0
+Azadpur,Moti Nagar,10,8,80.0,5406.0
+Badarpur,Ardee City,10,5,50.0,1792.0
+Badarpur,Faridabad Sector 15,10,6,60.0,3488.0
+Badarpur,Gurgaon Railway Station,10,7,70.0,2407.0
+Badshahpur,Mehrauli,10,6,60.0,2690.0
+Badshahpur,Punjabi Bagh,10,4,40.0,2049.0
+Bahadurgarh,Hero Honda Chowk,10,4,40.0,1915.0
+Bahadurgarh,Munirka,10,9,90.0,5531.0
+Barakhamba Road,Chandni Chowk,10,5,50.0,1881.0
+Barakhamba Road,DLF City Court,10,6,60.0,2892.0
+Barakhamba Road,INA Market,10,6,60.0,2532.0
+Barakhamba Road,Jhilmil,10,6,60.0,3220.0
+Barakhamba Road,MG Road,10,5,50.0,2808.0
+Basai Dhankot,Hauz Khas,10,4,40.0,3267.0
+Bhikaji Cama Place,Preet Vihar,10,5,50.0,1716.0
+Bhiwadi,Ardee City,10,5,50.0,4524.0
+Bhiwadi,Kherki Daula Toll,10,4,40.0,1996.0
+Bhiwadi,Lal Quila,10,8,80.0,5143.0
+Bhiwadi,Palam Vihar,10,6,60.0,2944.0
+Bhiwadi,Vishwavidyalaya,10,6,60.0,2358.0
+Botanical Garden,Adarsh Nagar,10,5,50.0,2513.0
+Central Secretariat,Dilshad Garden,10,5,50.0,3384.0
+Central Secretariat,Khan Market,10,7,70.0,3571.0
+Chanakyapuri,DLF City Court,10,4,40.0,1492.0
+Chanakyapuri,Keshav Puram,10,6,60.0,3826.0
+Chanakyapuri,Mayur Vihar,10,8,80.0,4701.0
+Chanakyapuri,Pataudi Chowk,10,7,70.0,5338.0
+Chandni Chowk,Green Park,10,5,50.0,3184.0
+Chandni Chowk,Sarai Kale Khan,10,7,70.0,5780.0
+Chandni Chowk,Welcome,10,8,80.0,4115.0
+Chhatarpur,Greater Noida,10,3,30.0,1230.0
+Chhatarpur,Hauz Khas,10,2,20.0,997.0
+Chhatarpur,India Gate,10,6,60.0,3463.0
+Chhatarpur,Jhilmil,10,6,60.0,4528.0
+Chirag Delhi,Civil Lines Gurgaon,10,5,50.0,1669.0
+Chirag Delhi,Model Town,10,8,80.0,4561.0
+Chirag Delhi,Paharganj,10,6,60.0,2415.0
+Civil Lines Gurgaon,Gurgaon Sector 29,10,7,70.0,4487.0
+Civil Lines Gurgaon,Gurgaon Sector 56,10,4,40.0,2823.0
+Connaught Place,Dwarka Sector 21,10,7,70.0,2253.0
+Connaught Place,Madipur,10,4,40.0,827.0
+Connaught Place,Nehru Place,10,8,80.0,2780.0
+Cyber Hub,Chanakyapuri,10,7,70.0,7900.0
+Cyber Hub,Kalkaji,10,3,30.0,808.0
+Cyber Hub,Shahdara,10,8,80.0,4109.0
+DLF City Court,Paschim Vihar,10,6,60.0,4280.0
+DLF City Court,Subhash Nagar,10,5,50.0,1809.0
+DLF City Court,Tis Hazari,10,8,80.0,6151.0
+DLF Phase 3,Peeragarhi,10,5,50.0,2271.0
+Delhi Gate,Model Town,10,9,90.0,3843.0
+Delhi Gate,Moolchand,10,9,90.0,5239.0
+Delhi Gate,New Colony,10,5,50.0,2980.0
+Delhi Gate,RK Puram,10,6,60.0,2515.0
+Dilshad Garden,Mayur Vihar,10,5,50.0,3135.0
+Dwarka Mor,Kanhaiya Nagar,10,7,70.0,3058.0
+Dwarka Sector 21,Civil Lines Gurgaon,10,7,70.0,4503.0
+Dwarka Sector 21,Dilshad Garden,10,6,60.0,2768.0
+Dwarka Sector 21,Vinobapuri,10,5,50.0,1855.0
+Faridabad Sector 15,Moti Nagar,10,5,50.0,1792.0
+Faridabad Sector 15,South Extension,10,5,50.0,4251.0
+Faridabad Sector 15,Vishwavidyalaya,10,9,90.0,5630.0
+GTB Nagar,Ardee City,10,7,70.0,3230.0
+GTB Nagar,Chirag Delhi,10,4,40.0,1582.0
+GTB Nagar,Maidan Garhi,10,5,50.0,1519.0
+Ghaziabad,Karkarduma,10,7,70.0,3065.0
+Ghaziabad,Sarai Kale Khan,10,7,70.0,5080.0
+Ghitorni Village,Laxmi Nagar,10,7,70.0,1784.0
+Golf Course Road,India Gate,10,5,50.0,2804.0
+Golf Course Road,Jama Masjid,10,6,60.0,2477.0
+Govindpuri,Ardee City,10,8,80.0,4174.0
+Govindpuri,Rohini,10,6,60.0,6468.0
+Govindpuri,Samaypur Badli,10,6,60.0,3553.0
+Greater Kailash,Greater Noida,10,4,40.0,2107.0
+Greater Kailash,Hauz Khas,10,7,70.0,2732.0
+Greater Kailash,Panipat,10,7,70.0,1362.0
+Greater Kailash,Pitampura,10,6,60.0,2668.0
+Greater Noida,Kanhaiya Nagar,10,4,40.0,1883.0
+Greater Noida,Mandi House,10,5,50.0,3033.0
+Greater Noida,Noida Sector 62,10,4,40.0,1817.0
+Green Park,Laxmi Nagar,10,4,40.0,2190.0
+Green Park,Manesar,10,3,30.0,875.0
+Green Park,Sushant Lok,10,7,70.0,2888.0
+Gurgaon Railway Station,Munirka,10,5,50.0,2849.0
+Gurgaon Railway Station,Qutub Minar,10,3,30.0,1784.0
+Gurgaon Railway Station,Vinobapuri,10,6,60.0,2283.0
+Gurgaon Sector 29,Ardee City,10,5,50.0,3478.0
+Gurgaon Sector 29,Bahadurgarh,10,6,60.0,3677.0
+Gurgaon Sector 29,Greater Noida,10,5,50.0,2262.0
+Gurgaon Sector 29,South Extension,10,6,60.0,4768.0
+Gurgaon Sector 56,Ardee City,10,7,70.0,5705.0
+Gurgaon Sector 56,Azadpur,10,5,50.0,3284.0
+Gurgaon Sector 56,Greater Kailash,10,5,50.0,2677.0
+Gurgaon Sector 56,Gwal Pahari,10,6,60.0,3936.0
+Gurgaon Sector 56,Indirapuram,10,7,70.0,4544.0
+Gurgaon Sector 56,Netaji Subhash Place,10,6,60.0,2734.0
+Gwal Pahari,Govindpuri,10,6,60.0,2355.0
+Gwal Pahari,Lok Kalyan Marg,10,7,70.0,3287.0
+Gwal Pahari,Meerut,10,8,80.0,3049.0
+Gwal Pahari,Raj Nagar Extension,10,8,80.0,5000.0
+Gwal Pahari,Udyog Vihar,10,7,70.0,4617.0
+Hauz Khas,Barakhamba Road,10,5,50.0,1523.0
+Hauz Khas,Jor Bagh,10,5,50.0,2074.0
+Hauz Rani,Ashram,10,5,50.0,2150.0
+Hauz Rani,Cyber Hub,10,6,60.0,2573.0
+Hero Honda Chowk,AIIMS,10,5,50.0,1793.0
+Hero Honda Chowk,Peeragarhi,10,5,50.0,3879.0
+Huda City Centre,Botanical Garden,10,7,70.0,3496.0
+Huda City Centre,Janakpuri,10,8,80.0,6953.0
+Huda City Centre,Madipur,10,8,80.0,3349.0
+Huda City Centre,Noida Sector 62,10,5,50.0,2397.0
+Huda City Centre,Qutub Minar,10,7,70.0,4020.0
+IFFCO Chowk,Rohini East,10,7,70.0,3310.0
+IFFCO Chowk,Sarai Kale Khan,10,8,80.0,3513.0
+IGI Airport,Central Secretariat,10,7,70.0,2338.0
+IGI Airport,Punjabi Bagh,10,8,80.0,5854.0
+IGNOU Road,Preet Vihar,10,6,60.0,3870.0
+IIT Delhi,Kadarpur,10,7,70.0,1984.0
+IMT Manesar,Udyog Vihar Phase 4,10,5,50.0,2423.0
+INA Market,IGNOU Road,10,4,40.0,1848.0
+INA Market,Nawada,10,7,70.0,3827.0
+ITO,Ghitorni,10,6,60.0,2947.0
+ITO,INA Market,10,7,70.0,2940.0
+ITO,Khandsa,10,5,50.0,2130.0
+Inderlok,Basai Dhankot,10,6,60.0,2415.0
+Inderlok,DLF City Court,10,3,30.0,1525.0
+Inderlok,Sonipat,10,7,70.0,4453.0
+India Gate,Kanhaiya Nagar,10,7,70.0,4289.0
+India Gate,Saidulajab,10,7,70.0,2937.0
+Indirapuram,Anand Vihar ISBT,10,5,50.0,3183.0
+Indirapuram,Dwarka Sector 21,10,9,90.0,5359.0
+Indirapuram,Kalkaji,10,8,80.0,3178.0
+Indirapuram,Okhla,10,9,90.0,5636.0
+Indraprastha,Bahadurgarh,10,6,60.0,4105.0
+Indraprastha,Chandni Chowk,10,6,60.0,3538.0
+Indraprastha,Dwarka Mor,10,6,60.0,3146.0
+Indraprastha,Gurgaon Sector 56,10,5,50.0,3275.0
+Indraprastha,Nehru Place,10,5,50.0,1961.0
+Indraprastha,New Colony,10,7,70.0,3052.0
+Indraprastha,Noida Film City,10,6,60.0,4467.0
+Indraprastha,Pataudi Chowk,10,7,70.0,2167.0
+Jahangirpuri,Chirag Delhi,10,9,90.0,3695.0
+Jahangirpuri,Mandi House,10,8,80.0,1730.0
+Jama Masjid,Dilshad Garden,10,6,60.0,4008.0
+Jama Masjid,Jasola,10,7,70.0,2195.0
+Jama Masjid,Malviya Nagar,10,9,90.0,5532.0
+Jama Masjid,Paschim Vihar,10,9,90.0,5696.0
+Jama Masjid,Saket A Block,10,9,90.0,6074.0
+Janakpuri,Inderlok,10,6,60.0,6399.0
+Janakpuri,Khandsa,10,5,50.0,1439.0
+Jasola,Gurgaon Sector 29,10,6,60.0,3125.0
+Jasola,Shastri Nagar,10,8,80.0,4269.0
+Jhilmil,Lajpat Nagar,10,5,50.0,3216.0
+Jhilmil,Vinobapuri,10,4,40.0,1473.0
+Jhilmil,Welcome,10,4,40.0,2517.0
+Jor Bagh,Khan Market,10,6,60.0,3192.0
+Jor Bagh,New Delhi Railway Station,10,7,70.0,2373.0
+Jor Bagh,Punjabi Bagh,10,8,80.0,4018.0
+Jor Bagh,Udyog Bhawan,10,4,40.0,2251.0
+Kadarpur,Noida Sector 18,10,5,50.0,1376.0
+Kadarpur,Rajiv Nagar,10,4,40.0,1752.0
+Kadarpur,Yamuna Bank,10,6,60.0,1822.0
+Kalkaji,DLF Phase 3,10,9,90.0,3134.0
+Kalkaji,Khandsa,10,7,70.0,3632.0
+Kalkaji,Sohna Road,10,9,90.0,5543.0
+Kanhaiya Nagar,Green Park,10,4,40.0,1814.0
+Kanhaiya Nagar,Kaushambi,10,8,80.0,5065.0
+Kanhaiya Nagar,Saket,10,4,40.0,1946.0
+Kanhaiya Nagar,Sikanderpur,10,4,40.0,1652.0
+Karkarduma,Pulbangash,10,5,50.0,2544.0
+Karol Bagh,Ghaziabad,10,6,60.0,4053.0
+Karol Bagh,Indirapuram,10,6,60.0,4419.0
+Kashmere Gate,Dilshad Garden,10,9,90.0,3376.0
+Kashmere Gate,Munirka,10,6,60.0,3197.0
+Kashmere Gate,Tis Hazari,10,7,70.0,3924.0
+Kashmere Gate ISBT,Ashok Park Main,10,6,60.0,2931.0
+Kashmere Gate ISBT,DLF Phase 3,10,5,50.0,4219.0
+Kashmere Gate ISBT,Moti Nagar,10,8,80.0,3054.0
+Kashmere Gate ISBT,Patel Chowk,10,5,50.0,3294.0
+Kaushambi,IGI Airport,10,6,60.0,2681.0
+Kaushambi,Jasola,10,5,50.0,3340.0
+Keshav Puram,India Gate,10,4,40.0,840.0
+Keshav Puram,Kashmere Gate,10,6,60.0,2516.0
+Keshav Puram,Lal Quila,10,8,80.0,5400.0
+Keshav Puram,Vasant Kunj,10,8,80.0,5575.0
+Khan Market,Ashram,10,5,50.0,2896.0
+Khan Market,Hauz Khas,10,6,60.0,1905.0
+Khan Market,Paschim Vihar,10,6,60.0,6382.0
+Khan Market,Sohna Road,10,6,60.0,3037.0
+Khandsa,Gurgaon Sector 29,10,5,50.0,3162.0
+Khandsa,Khan Market,10,7,70.0,4567.0
+Khandsa,Rajouri Garden,10,7,70.0,1883.0
+Khandsa,Satguru Ram Singh Marg,10,5,50.0,2873.0
+Kherki Daula Toll,Aya Nagar,10,9,90.0,4061.0
+Kherki Daula Toll,New Colony,10,4,40.0,1494.0
+Kirti Nagar,Chandni Chowk,10,7,70.0,6623.0
+Kirti Nagar,Meerut,10,7,70.0,3558.0
+Kirti Nagar,Rajiv Chowk,10,5,50.0,2445.0
+Kirti Nagar,Yamuna Bank,10,8,80.0,6921.0
+Lal Quila,Kaushambi,10,2,20.0,1397.0
+Lal Quila,Laxmi Nagar,10,5,50.0,5168.0
+Lal Quila,Palam Vihar,10,8,80.0,2917.0
+Lal Quila,Shastri Park,10,6,60.0,3378.0
+Lal Quila,Vaishali,10,7,70.0,2828.0
+Laxmi Nagar,Jasola,10,7,70.0,3708.0
+Lok Kalyan Marg,DLF Phase 3,10,7,70.0,3674.0
+Lok Kalyan Marg,Ghitorni,10,5,50.0,1628.0
+Lok Kalyan Marg,IGNOU Road,10,9,90.0,5899.0
+Lok Kalyan Marg,ITO,10,6,60.0,2823.0
+Lok Kalyan Marg,Jahangirpuri,10,7,70.0,3661.0
+Lok Kalyan Marg,Ramesh Nagar,10,3,30.0,1612.0
+MG Road,RK Puram,10,8,80.0,4873.0
+Madipur,Indraprastha,10,8,80.0,3790.0
+Madipur,Kherki Daula Toll,10,6,60.0,2593.0
+Madipur,Lajpat Nagar,10,8,80.0,3221.0
+Malviya Nagar,Ashram,10,7,70.0,6041.0
+Malviya Nagar,Badshahpur,10,7,70.0,2896.0
+Malviya Nagar,Mandi House,10,6,60.0,3368.0
+Malviya Nagar,Meerut,10,7,70.0,4136.0
+Malviya Nagar,Rithala,10,4,40.0,2607.0
+Mandi House,Gwal Pahari,10,7,70.0,4522.0
+Mandi House,Jor Bagh,10,6,60.0,2793.0
+Manesar,Akshardham,10,6,60.0,2031.0
+Manesar,Lok Kalyan Marg,10,7,70.0,4033.0
+Mansarovar Park,Lajpat Nagar,10,6,60.0,4984.0
+Mansarovar Park,Lok Kalyan Marg,10,8,80.0,2714.0
+Mansarovar Park,Mandi House,10,4,40.0,2229.0
+Mansarovar Park,New Colony,10,8,80.0,4103.0
+Mayur Vihar,Bhikaji Cama Place,10,6,60.0,2672.0
+Mayur Vihar,Chanakyapuri,10,8,80.0,3340.0
+Mayur Vihar,Samaypur Badli,10,7,70.0,7188.0
+Mayur Vihar,Sarojini Nagar,10,10,100.0,5200.0
+Meerut,Bhiwadi,10,5,50.0,1424.0
+Mehrauli,Hauz Khas,10,8,80.0,7880.0
+Mehrauli,Karol Bagh,10,6,60.0,2242.0
+Mehrauli,Keshav Puram,10,7,70.0,5907.0
+Mehrauli,Netaji Subhash Place,10,7,70.0,5084.0
+Mehrauli,Tughlakabad,10,5,50.0,2235.0
+Model Town,INA Market,10,6,60.0,3818.0
+Model Town,Jahangirpuri,10,6,60.0,6506.0
+Model Town,Madipur,10,6,60.0,3527.0
+Model Town,Noida Extension,10,7,70.0,4399.0
+Moolchand,Faridabad Sector 15,10,9,90.0,4617.0
+Moolchand,Khan Market,10,6,60.0,3096.0
+Moolchand,Lok Kalyan Marg,10,7,70.0,3131.0
+Moolchand,Netaji Subhash Place,10,4,40.0,1454.0
+Moolchand,Preet Vihar,10,7,70.0,3060.0
+Moti Nagar,Ardee City,10,7,70.0,3115.0
+Moti Nagar,Narsinghpur,10,6,60.0,2487.0
+Moti Nagar,Udyog Vihar Phase 4,10,8,80.0,3371.0
+Mundka,Hauz Rani,10,7,70.0,2609.0
+Munirka,Arjangarh,10,7,70.0,4374.0
+Munirka,Kadarpur,10,6,60.0,2464.0
+Narsinghpur,Aya Nagar,10,7,70.0,4854.0
+Nawada,AIIMS,10,5,50.0,2324.0
+Nawada,Preet Vihar,10,9,90.0,3277.0
+Nawada,Welcome,10,6,60.0,2855.0
+Nehru Place,Chandni Chowk,10,4,40.0,2149.0
+Nehru Place,Janakpuri,10,4,40.0,1122.0
+Nehru Place,Kanhaiya Nagar,10,6,60.0,2384.0
+Nehru Place,Vaishali,10,6,60.0,3079.0
+Netaji Subhash Place,Chanakyapuri,10,6,60.0,1512.0
+Netaji Subhash Place,Greater Kailash,10,5,50.0,1439.0
+Netaji Subhash Place,Laxmi Nagar,10,9,90.0,3393.0
+Netaji Subhash Place,Raj Nagar Extension,10,6,60.0,1987.0
+Netaji Subhash Place,Ramesh Nagar,10,7,70.0,2480.0
+New Colony,Sarojini Nagar,10,6,60.0,4921.0
+New Delhi Railway Station,Arjangarh,10,5,50.0,2048.0
+New Delhi Railway Station,Ashram,10,5,50.0,4073.0
+New Delhi Railway Station,IIT Delhi,10,8,80.0,3062.0
+New Delhi Railway Station,Subhash Nagar,10,3,30.0,2236.0
+Nirman Vihar,Nawada,10,5,50.0,3665.0
+Nirman Vihar,Sushant Lok,10,6,60.0,2193.0
+Nirman Vihar,Uttam Nagar,10,7,70.0,3844.0
+Noida Extension,MG Road,10,6,60.0,3278.0
+Noida Extension,Mundka,10,7,70.0,3372.0
+Noida Extension,Subhash Chowk,10,7,70.0,4237.0
+Noida Extension,Vidhan Sabha,10,10,100.0,5335.0
+Noida Film City,Ardee City,10,7,70.0,3398.0
+Noida Film City,Golf Course Road,10,6,60.0,3804.0
+Noida Film City,Gwal Pahari,10,7,70.0,3232.0
+Noida Film City,Khan Market,10,8,80.0,3459.0
+Noida Film City,Peeragarhi,10,5,50.0,1797.0
+Noida Film City,Sarojini Nagar,10,7,70.0,5362.0
+Noida Film City,Shahdara,10,5,50.0,3542.0
+Noida Sector 62,Greater Kailash,10,8,80.0,3647.0
+Noida Sector 62,Rajouri Garden,10,7,70.0,5792.0
+Noida Sector 62,Subhash Chowk,10,8,80.0,2758.0
+Okhla,Kashmere Gate ISBT,10,7,70.0,2748.0
+Okhla,Khan Market,10,8,80.0,5126.0
+Old Gurgaon,Kherki Daula Toll,10,6,60.0,3157.0
+Paharganj,Arjangarh,10,6,60.0,2189.0
+Paharganj,Barakhamba Road,10,7,70.0,3356.0
+Paharganj,Laxmi Nagar,10,6,60.0,4721.0
+Paharganj,Vishwavidyalaya,10,4,40.0,2858.0
+Palam Vihar,Rajiv Nagar,10,7,70.0,4173.0
+Panchsheel Park,Hauz Rani,10,6,60.0,2669.0
+Panipat,Ghaziabad,10,6,60.0,6801.0
+Panipat,Jor Bagh,10,7,70.0,3030.0
+Paschim Vihar,Bhikaji Cama Place,10,6,60.0,3216.0
+Paschim Vihar,Saket A Block,10,6,60.0,2764.0
+Patel Chowk,Adarsh Nagar,10,5,50.0,4744.0
+Peeragarhi,Udyog Vihar,10,5,50.0,2275.0
+Pitampura,Ashok Vihar,10,7,70.0,3683.0
+Pitampura,GTB Nagar,10,5,50.0,1519.0
+Pitampura,Nehru Place,10,2,20.0,581.0
+Pitampura,Sarojini Nagar,10,7,70.0,3079.0
+Pragati Maidan,Chirag Delhi,10,6,60.0,5530.0
+Pragati Maidan,Kherki Daula Toll,10,8,80.0,3207.0
+Pragati Maidan,Satguru Ram Singh Marg,10,6,60.0,3773.0
+Preet Vihar,GTB Nagar,10,5,50.0,2516.0
+Preet Vihar,Subhash Chowk,10,6,60.0,1667.0
+Pulbangash,DLF Phase 3,10,8,80.0,4073.0
+Pulbangash,Greater Noida,10,7,70.0,7472.0
+Pulbangash,Tilak Nagar,10,7,70.0,3392.0
+Punjabi Bagh,Ashok Vihar,10,4,40.0,2651.0
+Punjabi Bagh,Gurgaon Sector 29,10,6,60.0,1972.0
+Punjabi Bagh,Saket A Block,10,7,70.0,5285.0
+Punjabi Bagh,Samaypur Badli,10,5,50.0,1400.0
+Qutub Minar,Greater Noida,10,6,60.0,2930.0
+Qutub Minar,India Gate,10,6,60.0,3564.0
+Qutub Minar,Rohini,10,5,50.0,3274.0
+RK Puram,Paschim Vihar,10,7,70.0,2083.0
+RK Puram,Subhash Nagar,10,7,70.0,4021.0
+Raj Nagar Extension,Rajouri Garden,10,6,60.0,2232.0
+Raj Nagar Extension,Sultanpur,10,7,70.0,3662.0
+Rajiv Chowk,AIIMS,10,4,40.0,3505.0
+Rajiv Chowk,Okhla,10,8,80.0,5429.0
+Rajiv Chowk,Rajouri Garden,10,8,80.0,4744.0
+Rajiv Nagar,Aya Nagar,10,6,60.0,2143.0
+Rajiv Nagar,Basai Dhankot,10,6,60.0,2661.0
+Rajiv Nagar,Manesar,10,6,60.0,2580.0
+Rajouri Garden,Hauz Rani,10,7,70.0,5398.0
+Rajouri Garden,IIT Delhi,10,8,80.0,3151.0
+Rajouri Garden,Malviya Nagar,10,7,70.0,3540.0
+Ramesh Nagar,India Gate,10,3,30.0,1740.0
+Rithala,Anand Vihar ISBT,10,9,90.0,2935.0
+Rithala,Mayur Vihar,10,7,70.0,4112.0
+Rithala,Rohini,10,8,80.0,5239.0
+Rithala,Rohini East,10,7,70.0,2401.0
+Rohini,Gwal Pahari,10,8,80.0,7453.0
+Rohini,ITO,10,9,90.0,4059.0
+Rohini,Preet Vihar,10,9,90.0,4050.0
+Rohini,Sarojini Nagar,10,8,80.0,3326.0
+Rohini East,Bhikaji Cama Place,10,7,70.0,2889.0
+Rohini East,Botanical Garden,10,7,70.0,3422.0
+Rohini East,Lajpat Nagar,10,4,40.0,2484.0
+Rohini West,Badarpur,10,7,70.0,2857.0
+Rohini West,Inderlok,10,5,50.0,3476.0
+Rohini West,Jama Masjid,10,5,50.0,2444.0
+Rohini West,Preet Vihar,10,5,50.0,1748.0
+Sadar Bazar Gurgaon,Central Secretariat,10,6,60.0,3671.0
+Sadar Bazar Gurgaon,Govindpuri,10,4,40.0,1778.0
+Sadar Bazar Gurgaon,Jor Bagh,10,7,70.0,2886.0
+Saidulajab,Bhiwadi,10,3,30.0,733.0
+Saidulajab,Cyber Hub,10,4,40.0,1868.0
+Saidulajab,Rajiv Nagar,10,7,70.0,4257.0
+Saidulajab,Subhash Nagar,10,9,90.0,6278.0
+Saidulajab,Vidhan Sabha,10,4,40.0,1071.0
+Saket,Green Park,10,8,80.0,4142.0
+Saket,Khan Market,10,9,90.0,6596.0
+Saket,Manesar,10,7,70.0,5139.0
+Saket A Block,Anand Vihar ISBT,10,8,80.0,4870.0
+Saket A Block,Noida Film City,10,7,70.0,2111.0
+Saket A Block,Ramesh Nagar,10,6,60.0,3613.0
+Saket A Block,Vasant Kunj,10,8,80.0,2890.0
+Samaypur Badli,Mansarovar Park,10,6,60.0,3324.0
+Samaypur Badli,Narsinghpur,10,3,30.0,1326.0
+Samaypur Badli,Saidulajab,10,6,60.0,2997.0
+Samaypur Badli,Tilak Nagar,10,8,80.0,4274.0
+Sarai Kale Khan,Anand Vihar,10,4,40.0,1258.0
+Sarai Kale Khan,Delhi Gate,10,7,70.0,3393.0
+Sarai Kale Khan,Ghaziabad,10,8,80.0,4482.0
+Sarai Kale Khan,Lok Kalyan Marg,10,4,40.0,1487.0
+Sarai Kale Khan,Munirka,10,7,70.0,4427.0
+Sarai Kale Khan,South Extension,10,4,40.0,1885.0
+Sarai Kale Khan,Sultanpur,10,6,60.0,3694.0
+Sarojini Nagar,Connaught Place,10,4,40.0,3068.0
+Sarojini Nagar,Jhilmil,10,5,50.0,4187.0
+Satguru Ram Singh Marg,Chandni Chowk,10,4,40.0,1551.0
+Satguru Ram Singh Marg,Gurgaon Railway Station,10,5,50.0,2621.0
+Satguru Ram Singh Marg,IMT Manesar,10,8,80.0,6729.0
+Seelampur,Peeragarhi,10,5,50.0,2130.0
+Seelampur,Pulbangash,10,9,90.0,4649.0
+Shahdara,Bhikaji Cama Place,10,5,50.0,2359.0
+Shahdara,Gurgaon Sector 56,10,6,60.0,2419.0
+Shahdara,Inderlok,10,6,60.0,3977.0
+Shahdara,Malviya Nagar,10,6,60.0,4599.0
+Shahdara,Vatika Chowk,10,6,60.0,2747.0
+Shastri Nagar,Barakhamba Road,10,6,60.0,2876.0
+Shastri Nagar,Hauz Rani,10,7,70.0,4173.0
+Shastri Nagar,Janakpuri,10,8,80.0,4624.0
+Shastri Park,INA Market,10,7,70.0,4612.0
+Shastri Park,Kirti Nagar,10,6,60.0,2204.0
+Shastri Park,Noida Sector 62,10,6,60.0,3119.0
+Shastri Park,Vinobapuri,10,6,60.0,1943.0
+Shivaji Park,Ashok Vihar,10,4,40.0,2525.0
+Shivaji Park,Connaught Place,10,5,50.0,2821.0
+Shivaji Park,India Gate,10,6,60.0,3123.0
+Sikanderpur,Saket,10,7,70.0,3678.0
+Sikanderpur,Subhash Nagar,10,8,80.0,6164.0
+Sohna Road,GTB Nagar,10,5,50.0,3915.0
+Sohna Road,Gurgaon Sector 56,10,6,60.0,4125.0
+Sohna Road,Moolchand,10,7,70.0,3502.0
+Sohna Road,Rohini,10,6,60.0,3038.0
+Sohna Road,Satguru Ram Singh Marg,10,6,60.0,3094.0
+Sohna Road,Welcome,10,6,60.0,3944.0
+Sonipat,Ashok Vihar,10,7,70.0,2963.0
+Sonipat,Bahadurgarh,10,5,50.0,3067.0
+Sonipat,Dilshad Garden,10,7,70.0,2883.0
+Sonipat,Greater Kailash,10,9,90.0,4716.0
+Sonipat,RK Puram,10,7,70.0,1569.0
+South Extension,Ashok Vihar,10,7,70.0,2192.0
+South Extension,Indraprastha,10,9,90.0,4474.0
+South Extension,Kashmere Gate,10,6,60.0,3979.0
+Subhash Chowk,Jasola,10,8,80.0,3895.0
+Subhash Chowk,Kadarpur,10,5,50.0,2267.0
+Subhash Chowk,Vatika Chowk,10,5,50.0,2453.0
+Subhash Chowk,Vishwavidyalaya,10,7,70.0,4857.0
+Sultanpur,Hauz Khas,10,6,60.0,2934.0
+Sultanpur,India Gate,10,9,90.0,2934.0
+Sultanpur,Qutub Minar,10,9,90.0,6830.0
+Sushant Lok,Chanakyapuri,10,6,60.0,3943.0
+Tagore Garden,Gurgaon Railway Station,10,5,50.0,1733.0
+Tagore Garden,India Gate,10,7,70.0,2912.0
+Tagore Garden,Maidan Garhi,10,7,70.0,3861.0
+Tagore Garden,Rohini West,10,6,60.0,2844.0
+Tilak Nagar,Udyog Vihar Phase 4,10,8,80.0,5785.0
+Tilak Nagar,Vaishali,10,6,60.0,2465.0
+Tis Hazari,AIIMS,10,7,70.0,3954.0
+Tis Hazari,Arjangarh,10,6,60.0,2828.0
+Tis Hazari,Rohini East,10,3,30.0,2059.0
+Tughlakabad,Arjangarh,10,7,70.0,4086.0
+Udyog Bhawan,INA Market,10,8,80.0,3902.0
+Udyog Bhawan,Raj Nagar Extension,10,6,60.0,2154.0
+Udyog Bhawan,Shivaji Park,10,7,70.0,4850.0
+Udyog Bhawan,Subhash Nagar,10,6,60.0,2396.0
+Udyog Vihar,Keshav Puram,10,6,60.0,1950.0
+Udyog Vihar,Pitampura,10,6,60.0,2475.0
+Udyog Vihar,Rajouri Garden,10,6,60.0,4331.0
+Udyog Vihar Phase 4,Rajouri Garden,10,6,60.0,2918.0
+Uttam Nagar,Moolchand,10,7,70.0,5137.0
+Vaishali,Azadpur,10,4,40.0,4125.0
+Vaishali,Vatika Chowk,10,5,50.0,4746.0
+Vasant Kunj,Dwarka Mor,10,8,80.0,3228.0
+Vasant Kunj,Udyog Bhawan,10,7,70.0,3247.0
+Vatika Chowk,Chirag Delhi,10,4,40.0,1344.0
+Vatika Chowk,Govindpuri,10,5,50.0,2173.0
+Vatika Chowk,Pulbangash,10,6,60.0,1834.0
+Vidhan Sabha,Narsinghpur,10,7,70.0,2763.0
+Vidhan Sabha,Sohna Road,10,6,60.0,3429.0
+Vinobapuri,Mansarovar Park,10,5,50.0,1694.0
+Vinobapuri,Narsinghpur,10,8,80.0,3821.0
+Vinobapuri,Nehru Place,10,2,20.0,958.0
+Vishwavidyalaya,Gwal Pahari,10,6,60.0,3499.0
+Vishwavidyalaya,Rohini,10,5,50.0,1927.0
+Vishwavidyalaya,Sadar Bazar Gurgaon,10,4,40.0,1967.0
+Welcome,Ardee City,10,5,50.0,1844.0
+Welcome,Malviya Nagar,10,6,60.0,2901.0
+Welcome,Raj Nagar Extension,10,8,80.0,3823.0
+Yamuna Bank,Rajiv Chowk,10,6,60.0,2747.0

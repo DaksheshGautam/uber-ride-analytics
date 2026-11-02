@@ -1,0 +1,69 @@
+Bookings = COUNTROWS(Bookings)
+
+Completed = CALCULATE([Bookings], KEEPFILTERS(Bookings[status] = "Completed"))
+
+Completion Rate = DIVIDE([Completed], [Bookings])
+
+Unsuccessful = [Bookings] - [Completed]
+
+Unsuccessful Rate = DIVIDE([Unsuccessful], [Bookings])
+
+Cancellations = CALCULATE([Bookings], KEEPFILTERS(Bookings[is_cancelled] = 1))
+
+Cancellation Rate = DIVIDE([Cancellations], [Bookings])
+
+Driver Cancellations = CALCULATE([Bookings], KEEPFILTERS(Bookings[status] = "Cancelled by Driver"))
+
+No Driver = CALCULATE([Bookings], KEEPFILTERS(Bookings[status] = "No Driver Found"))
+
+No Driver Rate = DIVIDE([No Driver], [Bookings])
+
+Completed Booking Value = SUM(Bookings[completed_value])
+
+Avg Completed Value = DIVIDE([Completed Booking Value], [Completed])
+
+Incomplete Recorded Value = CALCULATE(SUM(Bookings[booking_value]), KEEPFILTERS(Bookings[status] = "Incomplete"))
+
+Avg Completed Distance = CALCULATE(AVERAGE(Bookings[ride_distance]), KEEPFILTERS(Bookings[status] = "Completed"))
+
+Avg Completed VTAT = CALCULATE(AVERAGE(Bookings[avg_vtat]), KEEPFILTERS(Bookings[status] = "Completed"))
+
+Avg Completed CTAT = CALCULATE(AVERAGE(Bookings[avg_ctat]), KEEPFILTERS(Bookings[status] = "Completed"))
+
+Driver Rating = CALCULATE(AVERAGE(Bookings[driver_rating]), KEEPFILTERS(Bookings[status] = "Completed"))
+
+Customer Rating = CALCULATE(AVERAGE(Bookings[customer_rating]), KEEPFILTERS(Bookings[status] = "Completed"))
+
+Distinct Booking IDs = DISTINCTCOUNT(Bookings[booking_id])
+
+Excess ID Rows = [Bookings] - [Distinct Booking IDs]
+
+Reused ID Rows = CALCULATE([Bookings], KEEPFILTERS(Bookings[booking_id_reused] = 1))
+
+Observed Days = DISTINCTCOUNT(Bookings[booking_date])
+
+Bookings per Observed Day = DIVIDE([Bookings], [Observed Days])
+
+Recovery Value 1pp = [Bookings] * 0.01 * [Avg Completed Value]
+
+Rated Completed = COUNT(Bookings[driver_rating])
+
+Failure Rows = IF([Unsuccessful] > 0, [Unsuccessful])
+
+Driver Failure Share = DIVIDE([Driver Cancellations], [Unsuccessful])
+
+VTAT Observed = COUNT(Bookings[avg_vtat])
+
+CTAT Observed = COUNT(Bookings[avg_ctat])
+
+Value Observed = COUNT(Bookings[booking_value])
+
+Rating Observed = COUNT(Bookings[driver_rating])
+
+Completed Value Millions = DIVIDE([Completed Booking Value], 1000000)
+
+Peak Hour = VAR h = TOPN(1, ADDCOLUMNS(VALUES(Bookings[hour]), "n", [Bookings]), [n], DESC, Bookings[hour], ASC) RETURN FORMAT(MAXX(h, Bookings[hour]), "00") & ":00"
+
+Peak Hour Requests = MAXX(ADDCOLUMNS(VALUES(Bookings[hour]), "n", [Bookings]), [n])
+
+Customer Cancellations = CALCULATE([Bookings], KEEPFILTERS(Bookings[status]="Cancelled by Customer"))
